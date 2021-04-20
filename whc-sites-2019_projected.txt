@@ -1,0 +1,1082 @@
+states_name_en	name_en	danger	longitude	latitude	category_short	iso_code
+Afghanistan	Cultural Landscape and Archaeological Remains of the Bamiyan Valley	1	67,82525	34,84694	C	af
+Afghanistan	Minaret and Archaeological Remains of Jam	1	64,51588889	34,39641667	C	af
+Albania	Historic Centres of Berat and Gjirokastra 	0	20,13333333	40,06944444	C	al
+Albania	Butrint	0	20,02611111	39,75111111	C	al
+Algeria	Al Qal'a of Beni Hammad	0	4,78684	35,81844	C	dz
+Algeria	Tassili n'Ajjer	0	9	25,5	M	dz
+Algeria	M'Zab Valley	0	3,68333	32,48333	C	dz
+Algeria	Djémila	0	5,73667	36,32056	C	dz
+Algeria	Tipasa	0	2,383333333	36,55	C	dz
+Algeria	Timgad	0	6,468861111	35,48416667	C	dz
+Algeria	Kasbah of Algiers	0	3,06028	36,78333	C	dz
+Andorra	Madriu-Perafita-Claror Valley	0	1,595555556	42,49472222	C	ad
+Angola	Mbanza Kongo, Vestiges of the Capital of the former Kingdom of Kongo	0	14,24972222	-6,268888889	C	ao
+Antigua and Barbuda	Antigua Naval Dockyard and Related Archaeological Sites	0	-61,76166667	17,00694444	C	ag
+Argentina	Los Glaciares National Park	0	-73,24944	-50	N	ar
+Argentina	Iguazu National Park	0	-54,13333333	-25,51805556	N	ar
+Argentina	Cueva de las Manos, Río Pinturas	0	-70,66666667	-47,15	C	ar
+Argentina	Península Valdés	0	-64	-42,5	N	ar
+Argentina	Ischigualasto / Talampaya Natural Parks	0	-68	-30	N	ar
+Argentina	Jesuit Block and Estancias of Córdoba	0	-64,19111	-31,42056	C	ar
+Argentina	Quebrada de Humahuaca	0	-65,34886111	-23,19986111	C	ar
+Argentina	Los Alerces National Park	0	-71,8728	-42,8528	N	ar
+Armenia	Monasteries of Haghpat and Sanahin	0	44,71028	41,095	C	am
+Armenia	Monastery of Geghard and the Upper Azat Valley	0	44,79667	40,15889	C	am
+Armenia	Cathedral and Churches of Echmiatsin and the Archaeological Site of Zvartnots	0	44,29514	40,15931	C	am
+Australia	Kakadu National Park	0	132,8333333	-12,83333333	M	au
+Australia	Great Barrier Reef	0	147,7	-18,28611111	N	au
+Australia	Sydney Opera House	0	151,2152778	-33,85666667	C	au
+Australia	Willandra Lakes Region	0	143	-34	M	au
+Australia	Tasmanian Wilderness	0	145,4166667	-41,58333333	M	au
+Australia	Lord Howe Island Group	0	159,0883333	-31,56555556	N	au
+Australia	Gondwana Rainforests of Australia	0	150,05	-28,25	N	au
+Australia	Ulu<U>r</U>u-Kata Tju<U>t</U>a National Park	0	131	-25,33333333	M	au
+Australia	Wet Tropics of Queensland	0	144,9666667	-15,65	N	au
+Australia	Heard and McDonald Islands	0	73,5	-53,1	N	au
+Australia	Shark Bay, Western Australia	0	113,4361111	-25,48611111	N	au
+Australia	Macquarie Island	0	158,8955556	-54,59472222	N	au
+Australia	Fraser Island	0	153,1333333	-25,21666667	N	au
+Australia	Australian Fossil Mammal Sites (Riversleigh / Naracoorte)	0	138,7166667	-19,08333333	N	au
+Australia	Greater Blue Mountains Area	0	150	-33,7	N	au
+Australia	Purnululu National Park	0	128,5	-17,5	N	au
+Australia	Royal Exhibition Building and Carlton Gardens	0	144,9702778	-37,80611111	C	au
+Australia	Australian Convict Sites	0	150,9944444	-33,37833333	C	au
+Australia	Ningaloo Coast	0	113,8102778	-22,5625	N	au
+Australia	Budj Bim Cultural Landscape	0	141,8852778	-38,08111111	C	au
+Austria	Historic Centre of the City of Salzburg	0	13,04333333	47,80055556	C	at
+Austria	Semmering Railway	0	15,82797222	47,64877778	C	at
+Austria	Palace and Gardens of Schönbrunn	0	16,31333333	48,18666667	C	at
+Austria	Hallstatt-Dachstein / Salzkammergut Cultural Landscape	0	13,64638889	47,55944444	C	at
+Austria	City of Graz – Historic Centre and Schloss Eggenberg	0	15,39166667	47,07416667	C	at
+Austria	Wachau Cultural Landscape	0	15,43416667	48,36444444	C	at
+Austria	Historic Centre of Vienna	1	16,38333333	48,21666667	C	at
+Azerbaijan	Walled City of Baku with the Shirvanshah's Palace and Maiden Tower	0	49,83333333	40,36666667	C	az
+Azerbaijan	Gobustan Rock Art Cultural Landscape	0	49,375	40,125	C	az
+Azerbaijan	Historic Centre of Sheki with the Khan’s Palace	0	47,1875	41,20333333	C	az
+Bahrain	Qal’at al-Bahrain – Ancient Harbour and Capital of Dilmun	0	50,52722222	26,23306	C	bh
+Bahrain	Pearling, Testimony of an Island Economy	0	50,61351	26,24128	C	bh
+Bahrain	Dilmun Burial Mounds	0	50,51277778	26,14972222	C	bh
+Bangladesh	Historic Mosque City of Bagerhat	0	89,8	22,66667	C	bd
+Bangladesh	Ruins of the Buddhist Vihara at Paharpur	0	88,98333333	25,03333333	C	bd
+Bangladesh	The Sundarbans	0	89,18333	21,95	N	bd
+Barbados	Historic Bridgetown and its Garrison	0	-59,61388889	13,09666667	C	bb
+Belarus	Mir Castle Complex	0	26,47272222	53,45108333	C	by
+Belarus	Architectural, Residential and Cultural Complex of the Radziwill Family at Nesvizh	0	26,69139	53,22278	C	by
+Belgium	Flemish Béguinages	0	4,47375	51,03097222	C	be
+Belgium	The Four Lifts on the Canal du Centre and their Environs, La Louvière and Le Roeulx (Hainaut)	0	4,13722	50,48111	C	be
+Belgium	La Grand-Place, Brussels	0	4,35242	50,84668	C	be
+Belgium	Historic Centre of Brugge	0	3,22527	51,20891	C	be
+Belgium	Major Town Houses of the Architect Victor Horta (Brussels)	0	4,36223	50,82806	C	be
+Belgium	Neolithic Flint Mines at Spiennes (Mons)	0	3,97879	50,43077	C	be
+Belgium	Notre-Dame Cathedral in Tournai	0	3,38926	50,60603	C	be
+Belgium	Plantin-Moretus House-Workshops-Museum Complex	0	4,39778	51,21833	C	be
+Belgium	Stoclet House	0	4,416111111	50,835	C	be
+Belgium	Major Mining Sites of Wallonia	0	3,838333333	50,43527778	C	be
+Belize	Belize Barrier Reef Reserve System	0	-87,05833333	16,75	N	bz
+Benin	Royal Palaces of Abomey	0	1,983333333	7,183333333	C	bj
+Bolivia (Plurinational State of)	City of Potosí	1	-65,75306	-19,58361	C	bo
+Bolivia (Plurinational State of)	Jesuit Missions of the Chiquitos	0	-60,5	-16	C	bo
+Bolivia (Plurinational State of)	Historic City of Sucre	0	-65,25917	-19,04306	C	bo
+Bolivia (Plurinational State of)	Tiwanaku: Spiritual and Political Centre of the Tiwanaku Culture	0	-68,67778	-16,55833333	C	bo
+Bolivia (Plurinational State of)	Fuerte de Samaipata	0	-63,81666667	-18,16666667	C	bo
+Bolivia (Plurinational State of)	Noel Kempff Mercado National Park	0	-60,86667	-14,26667	N	bo
+Bosnia and Herzegovina	Old Bridge Area of the Old City of Mostar	0	17,81092	43,34812	C	ba
+Bosnia and Herzegovina	Mehmed Paša Sokolovi? Bridge in Višegrad	0	19,288025	43,78144444	C	ba
+Botswana	Tsodilo	0	21,73333333	-18,75	C	bw
+Botswana	Okavango Delta	0	22,9	-19,28333333	N	bw
+Brazil	Historic Town of Ouro Preto	0	-43,50555556	-20,38888889	C	br
+Brazil	Historic Centre of the Town of Olinda	0	-34,845	-8,013333333	C	br
+Brazil	Historic Centre of Salvador de Bahia	0	-38,5	-12,96666667	C	br
+Brazil	Sanctuary of Bom Jesus do Congonhas	0	-43,85777778	-20,49972222	C	br
+Brazil	Iguaçu National Park	0	-54,43333	-25,68333	N	br
+Brazil	Brasilia	0	-47,9	-15,78333	C	br
+Brazil	Serra da Capivara National Park	0	-42,33333333	-8,416666667	C	br
+Brazil	Historic Centre of São Luís	0	-44,3025	-2,514166667	C	br
+Brazil	Historic Centre of the Town of Diamantina	0	-43,6	-18,23333333	C	br
+Brazil	Discovery Coast Atlantic Forest Reserves	0	-39,25	-16,5	N	br
+Brazil	Atlantic Forest South-East Reserves	0	-48	-24,16667	N	br
+Brazil	Historic Centre of the Town of Goiás	0	-50,13336	-15,93328	C	br
+Brazil	Central Amazon Conservation Complex	0	-62,00833333	-2,333333333	N	br
+Brazil	Pantanal Conservation Area	0	-57,38333	-17,71667	N	br
+Brazil	Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves	0	-32,42511111	-3,857944444	N	br
+Brazil	Cerrado Protected Areas: Chapada dos Veadeiros and Emas National Parks	0	-47,68461111	-14,00569444	N	br
+Brazil	Rio de Janeiro: Carioca Landscapes between the Mountain and the Sea	0	-43,29138889	-22,94777778	C	br
+Brazil	São Francisco Square in the Town of São Cristóvão	0	-37,21	-11,01611111	C	br
+Brazil	Paraty and Ilha Grande – Culture and Biodiversity	0	-44,68536944	-23,01860556	M	br
+Brazil	Pampulha Modern Ensemble	0	-43,97361111	-19,85194444	C	br
+Brazil	Valongo Wharf Archaeological Site	0	-43,18739444	-22,89711111	C	br
+Bulgaria	Boyana Church	0	23,26666667	42,65	C	bg
+Bulgaria	Madara Rider	0	27,15	43,3	C	bg
+Bulgaria	Thracian Tomb of Kazanlak	0	25,4	42,61666667	C	bg
+Bulgaria	Rock-Hewn Churches of Ivanovo	0	25,96666667	43,71666667	C	bg
+Bulgaria	Rila Monastery	0	23,4	42,11666667	C	bg
+Bulgaria	Ancient City of Nessebar	0	27,73	42,65611	C	bg
+Bulgaria	Srebarna Nature Reserve	0	27,07806	44,11444	N	bg
+Bulgaria	Pirin National Park	0	23,43047222	41,74272222	N	bg
+Bulgaria	Thracian Tomb of Sveshtari	0	26,66667	43,66667	C	bg
+Burkina Faso	Ruins of Loropéni	0	-3,583333333	10,25	C	bf
+Burkina Faso	Ancient ferrous metallurgy sites of Burkina Faso	0	-3,328986111	12,58775833	C	bf
+Cabo Verde	Cidade Velha, Historic Centre of Ribeira Grande	0	-23,60519444	14,91513889	C	cv
+Cambodia	Angkor	0	103,8333333	13,43333333	C	kh
+Cambodia	Temple of Preah Vihear	0	104,6838889	14,38833333	C	kh
+Cambodia	Temple Zone of Sambor Prei Kuk, Archaeological Site of Ancient Ishanapura	0	105,0430556	12,8725	C	kh
+Cameroon	Dja Faunal Reserve	0	13	3	N	cm
+Canada	L’Anse aux Meadows National Historic Site	0	-55,61666667	51,46666667	C	ca
+Canada	Nahanni National Park	0	-125,5894444	61,54722222	N	ca
+Canada	Dinosaur Provincial Park	0	-111,4922222	50,76777778	N	ca
+Canada	S<U>G</U>ang Gwaay	0	-131,2202778	52,095	C	ca
+Canada	Head-Smashed-In Buffalo Jump	0	-113,6238889	49,74944444	C	ca
+Canada	Wood Buffalo National Park	0	-112,2933333	59,35833333	N	ca
+Canada	Historic District of Old Québec	0	-71,21055556	46,80944444	C	ca
+Canada	Canadian Rocky Mountain Parks	0	-116,4797222	51,42472222	N	ca
+Canada	Gros Morne National Park	0	-57,53138889	49,6125	N	ca
+Canada	Miguasha National Park	0	-66,35305556	48,105	N	ca
+Canada	Old Town Lunenburg	0	-64,30916667	44,37611111	C	ca
+Canada	Rideau Canal	0	-75,765125	44,99438611	C	ca
+Canada	Joggins Fossil Cliffs	0	-64,43583333	45,70972222	N	ca
+Canada	Landscape of Grand Pré	0	-64,30722222	45,11833333	C	ca
+Canada	Red Bay Basque Whaling Station	0	-56,42952222	51,726925	C	ca
+Canada	Pimachiowin Aki	0	-95,41127778	51,82641667	M	ca
+Canada	Mistaken Point	0	-53,21111111	46,635	N	ca
+Canada	Writing-on-Stone / Áísínai’pi	0	-111,6333333	49,075	C	ca
+Central African Republic	Manovo-Gounda St Floris National Park	1	21,5	9	N	cf
+Chad	Lakes of Ounianga	0	20,50555556	19,055	N	td
+Chad	Ennedi Massif: Natural and Cultural Landscape	0	21,86277778	17,04166667	M	td
+Chile	Rapa Nui National Park	0	-109,45	-27,15	C	cl
+Chile	Historic Quarter of the Seaport City of Valparaíso	0	-71,628	-33,04063889	C	cl
+Chile	Churches of Chiloé	0	-73,76666667	-42,5	C	cl
+Chile	Humberstone and Santa Laura Saltpeter Works	0	-69,79406	-20,20582	C	cl
+Chile	Sewell Mining Town	0	-70,38277778	-34,08444444	C	cl
+China	Mount Taishan	0	117,1	36,26667	M	cn
+China	The Great Wall	0	116,08333	40,41667	C	cn
+China	Imperial Palaces of the Ming and Qing Dynasties in Beijing and Shenyang	0	123,4469444	41,79416667	C	cn
+China	Mogao Caves	0	94,81667	40,13333	C	cn
+China	Mausoleum of the First Qin Emperor	0	109,1	34,38333333	C	cn
+China	Peking Man Site at Zhoukoudian	0	115,9166667	39,73333333	C	cn
+China	Mount Huangshan	0	118,18333	30,16667	M	cn
+China	Jiuzhaigou Valley Scenic and Historic Interest Area	0	103,91667	33,08333	N	cn
+China	Huanglong Scenic and Historic Interest Area	0	103,82222	32,75417	N	cn
+China	Wulingyuan Scenic and Historic Interest Area	0	110,5	29,33333	N	cn
+China	Mountain Resort and its Outlying Temples, Chengde	0	117,93833	40,98694	C	cn
+China	Temple and Cemetery of Confucius and the Kong Family Mansion in Qufu	0	116,975	35,61167	C	cn
+China	Ancient Building Complex in the Wudang Mountains	0	111	32,46667	C	cn
+China	Historic Ensemble of the Potala Palace, Lhasa	0	91,11717	29,65792	C	cn
+China	Lushan National Park	0	115,8666667	29,43333333	C	cn
+China	Mount Emei Scenic Area, including Leshan Giant Buddha Scenic Area	0	103,76925	29,5449	M	cn
+China	Old Town of Lijiang	0	100,23333	26,86667	C	cn
+China	Ancient City of Ping Yao	0	112,15444	37,20139	C	cn
+China	Classical Gardens of Suzhou	0	120,45	31,31666667	C	cn
+China	Summer Palace, an Imperial Garden in Beijing	0	116,1411111	39,91055556	C	cn
+China	Temple of Heaven: an Imperial Sacrificial Altar in Beijing	0	116,4447222	39,84555556	C	cn
+China	Mount Wuyi	0	117,68333	27,71667	M	cn
+China	Dazu Rock Carvings	0	105,705	29,70111	C	cn
+China	Mount Qingcheng and the Dujiangyan Irrigation System	0	103,60528	31,00167	C	cn
+China	Ancient Villages in Southern Anhui – Xidi and Hongcun	0	117,9875	29,90444444	C	cn
+China	Longmen Grottoes	0	112,4666667	34,46666667	C	cn
+China	Imperial Tombs of the Ming and Qing Dynasties	0	124,7938889	41,70722222	C	cn
+China	Yungang Grottoes	0	113,12222	40,10972	C	cn
+China	Three Parallel Rivers of Yunnan Protected Areas	0	98,40638889	27,895	N	cn
+China	Historic Centre of Macao	0	113,5364611	22,19129194	C	cn
+China	Cultural Landscape of Honghe Hani Rice Terraces 	0	102,7799806	23,09327778	C	cn
+China	Kaiping Diaolou and Villages	0	112,5658611	22,28551944	C	cn
+China	Fujian <em>Tulou</em>	0	117,6858333	25,02305556	C	cn
+China	Yin Xu	0	114,3138889	36,12666667	C	cn
+China	Capital Cities and Tombs of the Ancient Koguryo Kingdom	0	126,1872222	41,15694444	C	cn
+China	Sichuan Giant Panda Sanctuaries - Wolong, Mt Siguniang and Jiajin Mountains 	0	103	30,83333333	N	cn
+China	South China Karst	0	110,3544444	24,92333333	N	cn
+China	Mount Wutai	0	113,5633333	39,03055556	C	cn
+China	Mount Sanqingshan National Park	0	118,0644444	28,91583333	N	cn
+China	Historic Monuments of Dengfeng in “The Centre of Heaven and Earth”	0	113,0677194	34,45874722	C	cn
+China	West Lake Cultural Landscape of Hangzhou	0	120,1408333	30,2375	C	cn
+China	China Danxia	0	106,0425	28,42194444	N	cn
+China	Chengjiang Fossil Site	0	102,9772222	24,66888889	N	cn
+China	Site of Xanadu	0	116,1851278	42,358	C	cn
+China	Xinjiang Tianshan	0	80,35416667	41,96833333	N	cn
+China	The Grand Canal	0	112,4683333	34,69388889	C	cn
+China	Tusi Sites	0	109,9669444	28,99861111	C	cn
+China	Zuojiang Huashan Rock Art Cultural Landscape	0	107,0230556	22,25555556	C	cn
+China	Hubei Shennongjia	0	110,2438889	31,46972222	N	cn
+China	Qinghai Hoh Xil	0	92,43916667	35,38027778	N	cn
+China	Kulangsu, a Historic International Settlement	0	118,0619444	24,4475	C	cn
+China	Fanjingshan	0	108,68	27,89555556	N	cn
+China	Archaeological Ruins of Liangzhu City	0	119,9908333	30,39555556	C	cn
+China	Migratory Bird Sanctuaries along the Coast of Yellow Sea-Bohai Gulf of China (Phase I)	0	121,0168139	32,93194444	N	cn
+Colombia	Port, Fortresses and Group of Monuments, Cartagena	0	-75,53333333	10,41666667	C	co
+Colombia	Los Katíos National Park	0	-77	7,666666667	N	co
+Colombia	Historic Centre of Santa Cruz de Mompox	0	-74,43333333	9,233333333	C	co
+Colombia	National Archeological Park of Tierradentro	0	-76,03333333	2,583333333	C	co
+Colombia	San Agustín Archaeological Park	0	-76,23333333	1,916666667	C	co
+Colombia	Coffee Cultural Landscape of Colombia	0	-75,68166667	5,471666667	C	co
+Colombia	Chiribiquete National Park – “The Maloca of the Jaguar”	0	-72,79722222	0,525277778	M	co
+Colombia	Malpelo Fauna and Flora Sanctuary	0	-81,61666667	3,966666667	N	co
+Costa Rica	Cocos Island National Park	0	-87,06666667	5,533333333	N	cr
+Costa Rica	Area de Conservación Guanacaste	0	-85,61666667	10,85	N	cr
+Costa Rica	Precolumbian Chiefdom Settlements with Stone Spheres of the Diquís	0	-83,4775	8,911388889	C	cr
+Côte d'Ivoire	Taï National Park	0	-7,66667	5,75	N	ci
+Côte d'Ivoire	Comoé National Park	0	-4	9	N	ci
+Côte d'Ivoire	Historic Town of Grand-Bassam	0	3,736388889	5,195833333	C	ci
+Croatia	Old City of Dubrovnik	0	18,09139	42,65056	C	hr
+Croatia	Historical Complex of Split with the Palace of Diocletian	0	16,44333	43,50944	C	hr
+Croatia	Plitvice Lakes National Park	0	15,61444	44,87778	N	hr
+Croatia	Episcopal Complex of the Euphrasian Basilica in the Historic Centre of Pore?	0	13,59444	45,22917	C	hr
+Croatia	Historic City of Trogir	0	16,25167	43,5125	C	hr
+Croatia	The Cathedral of St James in Šibenik	0	15,89038	43,73629	C	hr
+Croatia	Stari Grad Plain	0	16,63861111	43,18166667	C	hr
+Cuba	Old Havana and its Fortification System	0	-82,35	23,13333333	C	cu
+Cuba	Trinidad and the Valley de los Ingenios	0	-79,98444444	21,80305556	C	cu
+Cuba	Alejandro de Humboldt National Park	0	-75	20,45	N	cu
+Cuba	Viñales Valley	0	-83,71667	22,61667	C	cu
+Cuba	San Pedro de la Roca Castle, Santiago de Cuba	0	-75,87083333	19,96666667	C	cu
+Cuba	Desembarco del Granma National Park	0	-77,63333	19,88333	N	cu
+Cuba	Archaeological Landscape of the First Coffee Plantations in the South-East of Cuba	0	-75,39138889	20,03	C	cu
+Cuba	Urban Historic Centre of Cienfuegos 	0	-80,45278	22,14722	C	cu
+Cuba	Historic Centre of Camagüey	0	-77,91861111	21,37861111	C	cu
+Cyprus	Paphos	0	32,40556	34,75833	C	cy
+Cyprus	Painted Churches in the Troodos Region	0	33,09583333	34,92027778	C	cy
+Cyprus	Choirokoitia	0	33,34333	34,79833	C	cy
+Czechia	Historic Centre of Prague	0	14,41944	50,08972	C	cz
+Czechia	Historic Centre of ?eský Krumlov	0	14,31666667	48,81666667	C	cz
+Czechia	Historic Centre of Tel?	0	15,45	49,18333	C	cz
+Czechia	Pilgrimage Church of St John of Nepomuk at Zelená Hora	0	15,94205833	49,5802	C	cz
+Czechia	Kutná Hora: Historical Town Centre with the Church of St Barbara and the Cathedral of Our Lady at Sedlec	0	15,26666667	49,95	C	cz
+Czechia	Lednice-Valtice Cultural Landscape	0	16,775	48,77583	C	cz
+Czechia	Holy Trinity Column in Olomouc	0	17,25045833	49,59393611	C	cz
+Czechia	Gardens and Castle at Krom??íž	0	17,37722222	49,3	C	cz
+Czechia	Holašovice Historic Village	0	14,25277778	48,95972222	C	cz
+Czechia	Litomyšl Castle	0	16,31444	49,87361	C	cz
+Czechia	Tugendhat Villa in Brno	0	16,61605556	49,20718333	C	cz
+Czechia	Jewish Quarter and St Procopius' Basilica in T?ebí?	0	15,87888889	49,21722222	C	cz
+Czechia	Landscape for Breeding and Training of Ceremonial Carriage Horses at Kladruby nad Labem	0	15,48425833	50,05665	C	cz
+Democratic People's Republic of Korea	Complex of Koguryo Tombs	0	125,415	38,86305556	C	kp
+Democratic People's Republic of Korea	Historic Monuments and Sites in Kaesong	0	126,5080556	37,98166667	C	kp
+Democratic Republic of the Congo	Virunga National Park	1	29,16666667	0,916666667	N	cd
+Democratic Republic of the Congo	Garamba National Park	1	29,25	4	N	cd
+Democratic Republic of the Congo	Kahuzi-Biega National Park	1	28,75	-2,5	N	cd
+Democratic Republic of the Congo	Salonga National Park	1	21	-2	N	cd
+Democratic Republic of the Congo	Okapi Wildlife Reserve	1	28,5	2	N	cd
+Denmark	Roskilde Cathedral	0	12,07972222	55,64222222	C	dk
+Denmark	Kronborg Castle	0	12,62083333	56,03889	C	dk
+Denmark	Jelling Mounds, Runic Stones and Church	0	9,42	55,75638889	C	dk
+Denmark	Ilulissat Icefjord	0	-49,5	69,13333333	N	dk
+Denmark	Stevns Klint	0	12,42333333	55,26722222	N	dk
+Denmark	Christiansfeld, a Moravian Church Settlement	0	9,481388889	55,35555556	C	dk
+Denmark	The par force hunting landscape in North Zealand	0	12,35777778	55,91361111	C	dk
+Denmark	Kujataa Greenland: Norse and Inuit Farming at the Edge of the Ice Cap	0	-45,59805556	61,16444444	C	dk
+Denmark	Aasivissuit – Nipisat. Inuit Hunting Ground between Ice and Sea	0	-51,43320556	67,06393056	C	dk
+Dominica	Morne Trois Pitons National Park	0	-61,28333333	15,26666667	N	dm
+Dominican Republic	Colonial City of Santo Domingo	0	-69,91666667	18,48333333	C	do
+Ecuador	Galápagos Islands	0	-91	-0,81667	N	ec
+Ecuador	City of Quito	0	-78,5	-0,003888889	C	ec
+Ecuador	Sangay National Park	0	-78,33333	-1,83333	N	ec
+Ecuador	Historic Centre of Santa Ana de los Ríos de Cuenca	0	-78,98333333	-2,883333333	C	ec
+Egypt	Memphis and its Necropolis – the Pyramid Fields from Giza to Dahshur	0	31,13041	29,97604	C	eg
+Egypt	Ancient Thebes with its Necropolis	0	32,6	25,73333	C	eg
+Egypt	Nubian Monuments from Abu Simbel to Philae	0	31,62580556	22,33722222	C	eg
+Egypt	Historic Cairo	0	31,26111	30,05	C	eg
+Egypt	Abu Mena	1	29,66666667	30,83583333	C	eg
+Egypt	Saint Catherine Area	0	33,97543	28,55623	C	eg
+Egypt	Wadi Al-Hitan (Whale Valley)	0	30,18333	29,33333	N	eg
+El Salvador	Joya de Cerén Archaeological Site	0	-89,36916667	13,8275	C	sv
+Eritrea	Asmara: A Modernist African City	0	38,93583333	15,33527778	C	er
+Estonia	Historic Centre (Old Town) of Tallinn	0	24,73333333	59,43333	C	ee
+Ethiopia	Simien National Park	0	38,06666667	13,18333333	N	et
+Ethiopia	Lower Valley of the Awash	0	40,57939	11,10006	C	et
+Ethiopia	Tiya	0	38,6121	8,43491	C	et
+Ethiopia	Aksum	0	38,71861	14,13019	C	et
+Ethiopia	Lower Valley of the Omo	0	35,96666667	4,8	C	et
+Ethiopia	Rock-Hewn Churches, Lalibela	0	39,04042	12,02935	C	et
+Ethiopia	Fasil Ghebbi, Gondar Region	0	37,46617	12,60692	C	et
+Ethiopia	Harar Jugol, the Fortified Historic Town	0	42,13777778	9,308888889	C	et
+Ethiopia	Konso Cultural Landscape	0	37,4	5,3	C	et
+Fiji	Levuka Historical Port Town	0	178,8345333	-17,68337778	C	fj
+Finland	Bronze Age Burial Site of Sammallahdenmäki	0	21,7775	61,12056	C	fi
+Finland	Old Rauma	0	21,51167	61,12806	C	fi
+Finland	Fortress of Suomenlinna	0	24,98722	60,14722	C	fi
+Finland	Petäjävesi Old Church	0	25,18333	62,25	C	fi
+Finland	Verla Groundwood and Board Mill	0	26,64083	61,06194	C	fi
+France	Mont-Saint-Michel and its Bay	0	-1,51056	48,63556	C	fr
+France	Chartres Cathedral	0	1,487222222	48,4475	C	fr
+France	Palace and Park of Versailles	0	2,119444444	48,805	C	fr
+France	Vézelay, Church and Hill	0	3,748333333	47,46638889	C	fr
+France	Prehistoric Sites and Decorated Caves of the Vézère Valley	0	1,17	45,0575	C	fr
+France	Palace and Park of Fontainebleau	0	2,698055556	48,40194444	C	fr
+France	Amiens Cathedral	0	2,301666667	49,895	C	fr
+France	"Roman Theatre and its Surroundings and the ""Triumphal Arch"" of Orange"	0	4,808416667	44,13572222	C	fr
+France	Arles, Roman and Romanesque Monuments	0	4,630694444	43,67763889	C	fr
+France	Cistercian Abbey of Fontenay	0	4,38911	47,63944	C	fr
+France	From the Great Saltworks of Salins-les-Bains to the Royal Saltworks of Arc-et-Senans, the Production of Open-pan Salt 	0	5,876388889	46,9375	C	fr
+France	Historic Centre of Avignon: Papal Palace, Episcopal Ensemble and Avignon Bridge	0	4,806111111	43,95277778	C	fr
+France	Place Stanislas, Place de la Carrière and Place d'Alliance in Nancy	0	6,183333333	48,69361111	C	fr
+France	Abbey Church of Saint-Savin sur Gartempe	0	0,86611	46,56472	C	fr
+France	Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve	0	8,628833333	42,32519444	N	fr
+France	Pont du Gard (Roman Aqueduct)	0	4,535277778	43,94722222	C	fr
+France	Historic Fortified City of Carcassonne	0	2,358888889	43,21055556	C	fr
+France	Strasbourg, Grande-Île and <em>Neustadt</em>	0	7,748888889	48,58444444	C	fr
+France	Paris, Banks of the Seine	0	2,294166667	48,85833333	C	fr
+France	Cathedral of Notre-Dame, Former Abbey of Saint-Rémi and Palace of Tau, Reims	0	4,032777778	49,25333333	C	fr
+France	Bourges Cathedral	0	2,398333333	47,08222222	C	fr
+France	Canal du Midi	0	1,416388889	43,61138889	C	fr
+France	Routes of Santiago de Compostela in France	0	0,722944444	45,18405556	C	fr
+France	Historic Site of Lyon	0	4,83333	45,76722	C	fr
+France	Provins, Town of Medieval Fairs	0	3,298888889	48,55972222	C	fr
+France	Jurisdiction of Saint-Emilion	0	-0,155277778	44,89472222	C	fr
+France	The Loire Valley between Sully-sur-Loire and Chalonnes	0	0,70278	47,39889	C	fr
+France	Lagoons of New Caledonia: Reef Diversity and Associated Ecosystems	0	164,5663889	-20,41194444	N	fr
+France	The Causses and the Cévennes, Mediterranean agro-pastoral Cultural Landscape	0	3,473055556	44,22027778	C	fr
+France	Le Havre, the City Rebuilt by Auguste Perret	0	0,1075	49,49278	C	fr
+France	Bordeaux, Port of the Moon	0	-0,572222222	44,83888889	C	fr
+France	Fortifications of Vauban	0	6,026944444	47,23611111	C	fr
+France	Pitons, cirques and remparts of Reunion Island	0	55,48	-21,09944444	N	fr
+France	Episcopal City of Albi	0	2,1425	43,92833333	C	fr
+France	Nord-Pas de Calais Mining Basin	0	3,546111111	50,4625	C	fr
+France	The Climats, terroirs of Burgundy	0	4,864444444	47,05805556	C	fr
+France	Decorated Cave of Pont d’Arc, known as Grotte Chauvet-Pont d’Arc, Ardèche	0	4,416111111	44,3875	C	fr
+France	Chaîne des Puys - Limagne fault tectonic arena	0	2,965111111	45,77938889	N	fr
+France	Champagne Hillsides, Houses and Cellars	0	3,946111111	49,0775	C	fr
+France	Taputapu?tea	0	-151,3723778	-16,8414	C	fr
+France	French Austral Lands and Seas	0	69,35280556	-49,38036111	N	fr
+Gabon	Ecosystem and Relict Cultural Landscape of Lopé-Okanda	0	11,5	-0,5	M	ga
+Gambia (the)	Kunta Kinteh Island and Related Sites	0	-16,35719444	13,31616667	C	gm
+Georgia	Historical Monuments of Mtskheta	0	44,71639	41,84389	C	ge
+Georgia	Upper Svaneti	0	43,01139	42,91639	C	ge
+Georgia	Gelati Monastery	0	42,76833333	42,29472222	C	ge
+Germany	Aachen Cathedral 	0	6,084444444	50,77444444	C	de
+Germany	Speyer Cathedral	0	8,443055556	49,31666667	C	de
+Germany	Würzburg Residence with the Court Gardens and Residence Square	0	9,93889	49,79278	C	de
+Germany	St Mary's Cathedral and St Michael's Church at Hildesheim	0	9,94389	52,15278	C	de
+Germany	Pilgrimage Church of Wies	0	10,90013889	47,68127778	C	de
+Germany	Hanseatic City of Lübeck	0	10,69167	53,86667	C	de
+Germany	Castles of Augustusburg and Falkenlust at Brühl	0	6,909777778	50,82502778	C	de
+Germany	Cologne Cathedral	0	6,957222222	50,94111111	C	de
+Germany	Roman Monuments, Cathedral of St Peter and Church of Our Lady in Trier	0	6,633333333	49,75	C	de
+Germany	Abbey and Altenmünster of Lorsch	0	8,56858	49,65369	C	de
+Germany	Palaces and Parks of Potsdam and Berlin	0	13,03333333	52,4	C	de
+Germany	Garden Kingdom of Dessau-Wörlitz	0	12,42083	51,8425	C	de
+Germany	Collegiate Church, Castle and Old Town of Quedlinburg	0	11,15	51,78333	C	de
+Germany	Maulbronn Monastery Complex	0	8,81306	49,00083	C	de
+Germany	Mines of Rammelsberg, Historic Town of Goslar and Upper Harz Water Management  System	0	10,34	51,82	C	de
+Germany	Town of Bamberg	0	10,88888889	49,89166667	C	de
+Germany	Völklingen Ironworks	0	6,85	49,24444	C	de
+Germany	Messel Pit Fossil Site	0	8,75389	49,91667	N	de
+Germany	Bauhaus and its Sites in Weimar, Dessau and Bernau	0	11,3295	50,97477778	C	de
+Germany	Luther Memorials in Eisleben and Wittenberg	0	12,65278	51,86472	C	de
+Germany	Classical Weimar	0	11,32861	50,9775	C	de
+Germany	Museumsinsel (Museum Island), Berlin	0	13,39861111	52,51972222	C	de
+Germany	Wartburg Castle	0	10,307	50,96677778	C	de
+Germany	Monastic Island of Reichenau	0	9,061305556	47,69872222	C	de
+Germany	Zollverein Coal Mine Industrial Complex in Essen	0	7,046111111	51,49138889	C	de
+Germany	Upper Middle Rhine Valley	0	7,694166667	50,17361111	C	de
+Germany	Historic Centres of Stralsund and Wismar	0	13,08527778	54,3025	C	de
+Germany	Town Hall and Roland on the Marketplace of Bremen	0	8,807472222	53,07597222	C	de
+Germany	Old town of Regensburg with Stadtamhof	0	12,09916667	49,02055556	C	de
+Germany	Berlin Modernism Housing Estates	0	13,45	52,44833333	C	de
+Germany	Fagus Factory in Alfeld	0	9,811111111	51,98361111	C	de
+Germany	Margravial Opera House Bayreuth	0	11,57861111	49,94444444	C	de
+Germany	Bergpark Wilhelmshöhe	0	9,393055556	51,31583333	C	de
+Germany	Carolingian Westwork and Civitas Corvey	0	9,41025	51,77827778	C	de
+Germany	Speicherstadt and Kontorhaus District with Chilehaus	0	9,999444444	53,54555556	C	de
+Germany	Naumburg Cathedral	0	11,804	51,15480556	C	de
+Germany	Caves and Ice Age Art in the Swabian Jura	0	9,765555556	48,38777778	C	de
+Germany	Archaeological Border complex of Hedeby and the Danevirke	0	9,454111111	54,46194444	C	de
+Germany	Water Management System of Augsburg	0	10,902	48,36547222	C	de
+Ghana	Forts and Castles, Volta, Greater Accra, Central and Western Regions	0	-0,49361	5,39103	C	gh
+Ghana	Asante Traditional Buildings	0	-1,625833333	6,401111111	C	gh
+Greece	Temple of Apollo Epicurius at Bassae	0	21,89694	37,43498	C	gr
+Greece	Archaeological Site of Delphi	0	22,49617	38,48149	C	gr
+Greece	Acropolis, Athens	0	23,72618	37,97087	C	gr
+Greece	Mount Athos	0	24,21667	40,26667	M	gr
+Greece	Meteora	0	21,63333	39,71667	M	gr
+Greece	Paleochristian and Byzantine Monuments of Thessalonika	0	22,965	40,63833	C	gr
+Greece	Sanctuary of Asklepios at Epidaurus	0	23,11666667	37,66666667	C	gr
+Greece	Medieval City of Rhodes	0	28,22778	36,44722	C	gr
+Greece	Archaeological Site of Mystras	0	22,36667	37,08056	C	gr
+Greece	Archaeological Site of Olympia	0	21,66666667	37,65	C	gr
+Greece	Delos	0	25,26667	37,4	C	gr
+Greece	Monasteries of Daphni, Hosios Loukas and Nea Moni of Chios	0	22,75	38,4	C	gr
+Greece	Pythagoreion and Heraion of Samos	0	26,94333	37,69083	C	gr
+Greece	Archaeological Site of Aigai (modern name Vergina)	0	22,31833	40,47139	C	gr
+Greece	Archaeological Sites of Mycenae and Tiryns	0	22,75	37,73333333	C	gr
+Greece	The Historic Centre (Chorá) with the Monastery of Saint-John the Theologian and the Cave of the Apocalypse on the Island of Pátmos	0	26,55	37,3	C	gr
+Greece	Old Town of Corfu	0	19,9275	39,62394139	C	gr
+Greece	Archaeological Site of Philippi	0	24,28527778	41,01472222	C	gr
+Guatemala	Tikal National Park	0	-89,61666667	17,21666667	M	gt
+Guatemala	Antigua Guatemala	0	-90,66666667	14,56666667	C	gt
+Guatemala	Archaeological Park and Ruins of Quirigua	0	-89,04025	15,27059	C	gt
+Haiti	National History Park – Citadel, Sans Souci, Ramiers	0	-72,24417	19,57361	C	ht
+Holy See	Vatican City	0	12,45736	41,90216	C	va
+Honduras	Maya Site of Copan	0	-89,13333	14,85	C	hn
+Honduras	Río Plátano Biosphere Reserve	1	-84,675	15,74444444	N	hn
+Hungary	Budapest, including the Banks of the Danube, the Buda Castle Quarter and Andrássy Avenue	0	19,07067	47,48242	C	hu
+Hungary	Old Village of Hollók? and its Surroundings	0	19,52917	47,99444	C	hu
+Hungary	Hortobágy National Park - the <i>Puszta</i>	0	21,15678	47,59458	C	hu
+Hungary	Millenary Benedictine Abbey of Pannonhalma and its Natural Environment	0	17,78444	47,55889	C	hu
+Hungary	Early Christian Necropolis of Pécs (Sopianae)	0	18,22778	46,07444	C	hu
+Hungary	Tokaj Wine Region Historic Cultural Landscape	0	21,35	48,15	C	hu
+Iceland	Þingvellir National Park	0	-21,03725	64,25380556	C	is
+Iceland	Surtsey	0	-20,60222222	63,30305556	N	is
+Iceland	Vatnajökull National Park - dynamic nature of fire and ice	0	-16,88154044	64,577363	N	is
+India	Red Fort Complex	0	77,24083333	28,65555556	C	in
+India	Humayun's Tomb, Delhi	0	77,25056	28,59333	C	in
+India	Qutb Minar and its Monuments, Delhi	0	77,18528	28,52583	C	in
+India	Churches and Convents of Goa	0	73,91167	15,50222	C	in
+India	Group of Monuments at Pattadakal	0	75,81667	15,94833	C	in
+India	Khajuraho Group of Monuments	0	79,92222	24,85222	C	in
+India	Group of Monuments at Hampi	0	76,47167	15,31444	C	in
+India	Ajanta Caves	0	75,7	20,55333	C	in
+India	Ellora Caves	0	75,17917	20,02639	C	in
+India	Elephanta Caves	0	72,93583	18,96667	C	in
+India	Sun Temple, Konârak	0	86,09472	19,8875	C	in
+India	Hill Forts of Rajasthan	0	74,64611111	24,88333333	C	in
+India	Group of Monuments at Mahabalipuram	0	80,19167	12,61667	C	in
+India	Great Living Chola Temples	0	79,1325	10,78305556	C	in
+India	Agra Fort	0	78,03333333	27,18333333	C	in
+India	Taj Mahal	0	78,04222	27,17417	C	in
+India	Fatehpur Sikri	0	77,66417	27,09444	C	in
+India	Nanda Devi and Valley of Flowers National Parks  	0	79,66667	30,71667	N	in
+India	Kaziranga National Park	0	93,41666667	26,66666667	N	in
+India	Manas Wildlife Sanctuary	0	91,03055556	26,725	N	in
+India	Keoladeo National Park	0	77,50861111	27,15888889	N	in
+India	Sundarbans National Park	0	88,89583333	21,945	N	in
+India	Buddhist Monuments at Sanchi	0	77,73972	23,47944	C	in
+India	Rani-ki-Vav (the Queen’s Stepwell) at Patan, Gujarat	0	72,10166667	23,85888889	C	in
+India	Rock Shelters of Bhimbetka	0	77,58333333	22,92777778	C	in
+India	Mountain Railways of India	0	76,93583	11,51028	C	in
+India	Chhatrapati Shivaji Terminus (formerly Victoria Terminus)	0	72,83620278	18,94012222	C	in
+India	Mahabodhi Temple Complex at Bodh Gaya	0	84,99389	24,69528	C	in
+India	Champaner-Pavagadh Archaeological Park	0	73,53333333	22,48333333	C	in
+India	The Jantar Mantar, Jaipur	0	75,825	26,92472222	C	in
+India	Western Ghats	0	77,24972222	8,529722222	N	in
+India	Great Himalayan National Park Conservation Area	0	77,58333333	31,83333333	N	in
+India	Victorian Gothic and Art Deco Ensembles of Mumbai	0	72,83008333	18,92980556	C	in
+India	Archaeological Site of Nalanda Mahavihara at Nalanda, Bihar	0	85,44388889	25,13666667	C	in
+India	Khangchendzonga National Park	0	88,37722222	27,76472222	M	in
+India	Historic City of Ahmadabad	0	72,58805556	23,02638889	C	in
+India	Jaipur City, Rajasthan	0	75,78722222	26,90786111	C	in
+Indonesia	Borobudur Temple Compounds	0	110,20361	-7,60778	C	id
+Indonesia	Sangiran Early Man Site	0	110,8166667	-7,4	C	id
+Indonesia	Ujung Kulon National Park	0	105,3333333	-6,75	N	id
+Indonesia	Komodo National Park	0	119,48944	-8,54333	N	id
+Indonesia	Prambanan Temple Compounds	0	110,49167	-7,75222	C	id
+Indonesia	Lorentz National Park	0	137,83333	-4,75	N	id
+Indonesia	Tropical Rainforest Heritage of Sumatra	1	101,5	-2,5	N	id
+Indonesia	Cultural Landscape of Bali Province: the <em>Subak</em> System as a Manifestation of the <em>Tri Hita Karana</em> Philosophy	0	115,4027778	-8,259166667	C	id
+Indonesia	Ombilin Coal Mining Heritage of Sawahlunto	0	100,7378833	-0,766625556	C	id
+Iran (Islamic Republic of)	Tchogha Zanbil	0	48,53333333	32,0833	C	ir
+Iran (Islamic Republic of)	Persepolis	0	52,89028	29,93444	C	ir
+Iran (Islamic Republic of)	Meidan Emam, Esfahan	0	51,67777778	32,65745	C	ir
+Iran (Islamic Republic of)	Takht-e Soleyman	0	47,235	36,60388889	C	ir
+Iran (Islamic Republic of)	Pasargadae	0	53,16729	30,19383	C	ir
+Iran (Islamic Republic of)	Soltaniyeh	0	48,79667	36,43528	C	ir
+Iran (Islamic Republic of)	Bam and its Cultural Landscape	0	58,36666667	29,11683	C	ir
+Iran (Islamic Republic of)	Bisotun	0	47,43666667	34,38833333	C	ir
+Iran (Islamic Republic of)	Armenian Monastic Ensembles of Iran	0	45,47333333	38,97888889	C	ir
+Iran (Islamic Republic of)	Shushtar Historical Hydraulic System	0	48,83583333	32,01861111	C	ir
+Iran (Islamic Republic of)	Sheikh Safi al-din Kh?neg?h and Shrine Ensemble in Ardabil	0	48,29138889	38,24861111	C	ir
+Iran (Islamic Republic of)	Tabriz Historic Bazaar Complex	0	46,29305556	38,08138889	C	ir
+Iran (Islamic Republic of)	The Persian Garden	0	53,16666667	30,16666667	C	ir
+Iran (Islamic Republic of)	Masjed-e J?mé of Isfahan  	0	51,68527778	32,66972222	C	ir
+Iran (Islamic Republic of)	Gonbad-e Q?bus	0	55,169	37,25802778	C	ir
+Iran (Islamic Republic of)	Golestan Palace	0	51,42051111	35,68036667	C	ir
+Iran (Islamic Republic of)	Cultural Landscape of Maymand	0	55,37555556	30,16805556	C	ir
+Iran (Islamic Republic of)	Susa	0	48,25611111	32,18944444	C	ir
+Iran (Islamic Republic of)	Shahr-i Sokhta	0	61,32777778	30,59388889	C	ir
+Iran (Islamic Republic of)	Lut Desert	0	58,83888889	30,21611111	N	ir
+Iran (Islamic Republic of)	The Persian Qanat	0	58,65444444	34,29	C	ir
+Iran (Islamic Republic of)	Historic City of Yazd	0	54,36916667	31,90138889	C	ir
+Iran (Islamic Republic of)	Sassanid Archaeological Landscape of Fars Region	0	51,57045	29,77748056	C	ir
+Iran (Islamic Republic of)	Hyrcanian Forests	0	55,72427778	37,42147222	N	ir
+Iraq	Samarra Archaeological City	1	43,82354306	34,34098944	C	iq
+Iraq	Hatra	1	42,71833	35,58806	C	iq
+Iraq	Babylon	0	44,42083333	32,54196944	C	iq
+Iraq	Ashur (Qal'at Sherqat)	1	43,26111111	35,45666667	C	iq
+Iraq	Erbil Citadel	0	44,00916667	36,19111111	C	iq
+Iraq	The Ahwar of Southern Iraq: Refuge of Biodiversity and the Relict Landscape of the Mesopotamian Cities	0	47,65777778	31,56222222	M	iq
+Ireland	Brú na Bóinne - Archaeological Ensemble of the Bend of the Boyne	0	-6,45	53,69167	C	ie
+Ireland	Sceilg Mhichíl	0	-10,53861	51,77194	C	ie
+Israel	Masada	0	35,35275	31,3135	C	il
+Israel	Old City of Acre	0	35,08388889	32,92833333	C	il
+Israel	White City of Tel-Aviv – the Modern Movement	0	34,78333333	32,06666667	C	il
+Israel	Incense Route - Desert Cities in the Negev	0	35,16083	30,54111	C	il
+Israel	Biblical Tels - Megiddo, Hazor, Beer Sheba	0	35,18222	32,59722	C	il
+Israel	Bahá’i Holy Places in Haifa and the Western Galilee	0	34,97164889	32,82939667	C	il
+Israel	Caves of Maresha and Bet-Guvrin in the Judean Lowlands as a Microcosm of the Land of the Caves	0	34,89555556	31,6	C	il
+Israel	Sites of Human Evolution at Mount Carmel: The Nahal Me’arot / Wadi el-Mughara Caves	0	34,96527778	32,67	C	il
+Israel	Necropolis of Bet She’arim: A Landmark of Jewish Renewal	0	35,12694444	32,70222222	C	il
+Italy	Church and Dominican Convent of Santa Maria delle Grazie with “The Last Supper” by Leonardo da Vinci	0	9,1705	45,46588889	C	it
+Italy	Rock Drawings in Valcamonica	0	10,29733333	45,95705556	C	it
+Italy	Historic Centre of Florence	0	11,25611	43,77306	C	it
+Italy	Medici Villas and Gardens in Tuscany	0	11,30416667	43,85777778	C	it
+Italy	Venice and its Lagoon	0	12,33894444	45,43430556	C	it
+Italy	Piazza del Duomo, Pisa	0	10,39638889	43,72305556	C	it
+Italy	Castel del Monte	0	16,27094444	41,08480556	C	it
+Italy	18th-Century Royal Palace at Caserta with the Park, the Aqueduct of Vanvitelli, and the San Leucio Complex	0	14,32639	41,07333	C	it
+Italy	Historic Centre of San Gimignano	0	11,04167	43,46806	C	it
+Italy	The Sassi and the Park of the Rupestrian Churches of Matera	0	16,61027778	40,66638889	C	it
+Italy	City of Vicenza and the Palladian Villas of the Veneto	0	11,54944444	45,54916667	C	it
+Italy	Historic Centre of Siena	0	11,33166667	43,31861111	C	it
+Italy	Historic Centre of Naples	0	14,26277778	40,85138889	C	it
+Italy	Crespi d'Adda	0	9,53833	45,59333	C	it
+Italy	Ferrara, City of the Renaissance, and its Po Delta	0	11,61944444	44,83777778	C	it
+Italy	The <I>Trulli</I> of Alberobello	0	17,23694	40,7825	C	it
+Italy	Early Christian Monuments of Ravenna	0	12,19625	44,42041667	C	it
+Italy	Historic Centre of the City of Pienza	0	11,67861111	43,07694444	C	it
+Italy	City of Verona	0	10,99388889	45,43861111	C	it
+Italy	Residences of the Royal House of Savoy	0	7,68572	45,07253	C	it
+Italy	Botanical Garden (Orto Botanico), Padua	0	11,88066667	45,39911111	C	it
+Italy	Archaeological Area and the Patriarchal Basilica of Aquileia	0	13,3675	45,76833333	C	it
+Italy	Portovenere, Cinque Terre, and the Islands (Palmaria, Tino and Tinetto)	0	9,72917	44,10694	C	it
+Italy	Cathedral, Torre Civica and Piazza Grande, Modena	0	10,92568	44,64624	C	it
+Italy	Historic Centre of Urbino	0	12,63333	43,725	C	it
+Italy	Archaeological Areas of Pompei, Herculaneum and Torre Annunziata	0	14,48333333	40,75	C	it
+Italy	Costiera Amalfitana	0	14,6	40,65	C	it
+Italy	Archaeological Area of Agrigento	0	13,59333333	37,28972222	C	it
+Italy	Villa Romana del Casale	0	14,33417	37,36611	C	it
+Italy	Su Nuraxi di Barumini	0	8,991388889	39,70583333	C	it
+Italy	Cilento and Vallo di Diano National Park with the Archeological Sites of Paestum and Velia, and the Certosa di Padula	0	15,26666667	40,28333333	C	it
+Italy	Villa Adriana (Tivoli)	0	12,77197222	41,94416667	C	it
+Italy	Isole Eolie (Aeolian Islands)	0	14,94558333	38,48786111	N	it
+Italy	Assisi, the Basilica of San Francesco and Other Franciscan Sites	0	12,62244444	43,06616667	C	it
+Italy	Late Baroque Towns of the Val di Noto (South-Eastern Sicily)	0	15,06891667	36,89319444	C	it
+Italy	Villa d'Este, Tivoli	0	12,79625	41,96391667	C	it
+Italy	Val d'Orcia	0	11,55	43,06666667	C	it
+Italy	<I>Sacri Monti</I> of Piedmont and Lombardy	0	9,169555556	45,97455556	C	it
+Italy	Etruscan Necropolises of Cerveteri and Tarquinia	0	12,10188889	42,00683333	C	it
+Italy	Syracuse and the Rocky Necropolis of Pantalica	0	15,29306	37,05944	C	it
+Italy	Genoa: <i>Le Strade Nuove</i> and the system of the<i> Palazzi dei Rolli</i>	0	8,931111111	44,41222222	C	it
+Italy	The Dolomites	0	12,16305556	46,61305556	N	it
+Italy	Mantua and Sabbioneta	0	10,79444444	45,15944444	C	it
+Italy	Longobards in Italy. Places of the Power (568-774 A.D.)	0	13,43305556	46,09416667	C	it
+Italy	Vineyard Landscape of Piedmont: Langhe-Roero and Monferrato	0	7,963611111	44,60861111	C	it
+Italy	Mount Etna	0	14,99666667	37,75611111	N	it
+Italy	Arab-Norman Palermo and the Cathedral Churches of Cefalú and Monreale	0	13,35305556	38,11083333	C	it
+Italy	Ivrea, industrial city of the 20th century	0	7,869166667	45,4575	C	it
+Italy	Le Colline del Prosecco di Conegliano e Valdobbiadene	0	12,22611111	45,95302778	C	it
+Jamaica	Blue and John Crow Mountains 	0	-76,57111111	18,0775	M	jm
+Japan	Buddhist Monuments in the Horyu-ji Area	0	135,7333333	34,61666667	C	jp
+Japan	Himeji-jo	0	134,7	34,83333333	C	jp
+Japan	Yakushima	0	130,5333333	30,33333333	N	jp
+Japan	Shirakami-Sanchi	0	140,13	40,47	N	jp
+Japan	Historic Monuments of Ancient Kyoto (Kyoto, Uji and Otsu Cities)	0	135,7694444	34,98055556	C	jp
+Japan	Historic Villages of Shirakawa-go and Gokayama	0	136,8833333	36,4	C	jp
+Japan	Hiroshima Peace Memorial (Genbaku Dome)	0	132,45	34,38333333	C	jp
+Japan	Itsukushima Shinto Shrine	0	132,3246389	34,29441667	C	jp
+Japan	Historic Monuments of Ancient Nara	0	135,8394444	34,67555556	C	jp
+Japan	Shrines and Temples of Nikko	0	139,6105556	36,7475	C	jp
+Japan	Gusuku Sites and Related Properties of the Kingdom of Ryukyu	0	127,6827778	26,20861111	C	jp
+Japan	Sacred Sites and Pilgrimage Routes in the Kii Mountain Range	0	135,7763889	33,83694444	C	jp
+Japan	Shiretoko	0	144,96583	43,94944	N	jp
+Japan	Iwami Ginzan Silver Mine and its Cultural Landscape	0	132,435	35,11277778	C	jp
+Japan	Hiraizumi – Temples, Gardens and Archaeological Sites Representing the Buddhist Pure Land	0	141,1077778	39,00111111	C	jp
+Japan	Ogasawara Islands	0	142,0997222	27,71833333	N	jp
+Japan	Fujisan, sacred place and source of artistic inspiration	0	138,7275	35,36083333	C	jp
+Japan	Tomioka Silk Mill and Related Sites	0	138,8877778	36,25527778	C	jp
+Japan	Sites of Japan’s Meiji Industrial Revolution: Iron and Steel, Shipbuilding and Coal Mining	0	131,4122222	34,43055556	C	jp
+Japan	Hidden Christian Sites in the Nagasaki Region	0	128,9038889	32,80222222	C	jp
+Japan	Sacred Island of Okinoshima and Associated Sites in the Munakata Region 	0	130,1055556	34,245	C	jp
+Japan	Mozu-Furuichi Kofun Group: Mounded Tombs of Ancient Japan	0	135,6094444	34,56222222	C	jp
+Jordan	Petra	0	35,44333	30,33056	C	jo
+Jordan	Quseir Amra	0	36,58583	31,80194	C	jo
+Jordan	Um er-Rasas (Kastrom Mefa'a)	0	35,92056	31,50167	C	jo
+Jordan	Wadi Rum Protected Area	0	35,43388889	29,63972222	M	jo
+Jordan	Baptism Site “Bethany Beyond the Jordan” (Al-Maghtas)	0	35,55277778	31,83722222	C	jo
+Kazakhstan	Saryarka – Steppe and Lakes of Northern Kazakhstan	0	69,18888889	50,43333333	N	kz
+Kazakhstan	Mausoleum of Khoja Ahmed Yasawi	0	68,27444444	43,29305556	C	kz
+Kazakhstan	Petroglyphs within the Archaeological Landscape of Tamgaly	0	75,535	43,80333333	C	kz
+Kenya	Mount Kenya National Park/Natural Forest	0	37,31555556	-0,155	N	ke
+Kenya	Lake Turkana National Parks	1	36,50366667	3,051305556	N	ke
+Kenya	Lamu Old Town	0	40,8525	-2,284444444	C	ke
+Kenya	Kenya Lake System in the Great Rift Valley	0	36,24	-0,4425	N	ke
+Kenya	Sacred Mijikenda Kaya Forests	0	39,59611111	-3,931944444	C	ke
+Kenya	Fort Jesus, Mombasa	0	39,67944444	-4,062777778	C	ke
+Kenya	Thimlich Ohinga Archaeological Site	0	34,326107	-0,891338056	C	ke
+Kiribati	Phoenix Islands Protected Area	0	-172,8575	-3,649722222	N	ki
+Kyrgyzstan	Sulaiman-Too Sacred Mountain	0	72,78277778	40,53111111	C	kg
+Lao People's Democratic Republic	Town of Luang Prabang	0	102,13333	19,88889	C	la
+Lao People's Democratic Republic	Vat Phou and Associated Ancient Settlements within the Champasak Cultural Landscape	0	105,8222222	14,84833333	C	la
+Lao People's Democratic Republic	Megalithic Jar Sites in Xiengkhuang – Plain of Jars	0	103,1522222	19,43105556	C	la
+Latvia	Historic Centre of Riga	0	24,11667	56,95417	C	lv
+Lebanon	Anjar	0	35,92972	33,72583	C	lb
+Lebanon	Baalbek	0	36,20494	34,00707	C	lb
+Lebanon	Byblos	0	35,6475	34,11917	C	lb
+Lebanon	Tyre	0	35,19444	33,27194	C	lb
+Lebanon	Ouadi Qadisha (the Holy Valley) and the Forest of the Cedars of God (Horsh Arz el-Rab)	0	36,04889	34,24333	C	lb
+Libya	Archaeological Site of Leptis Magna	1	14,29306	32,63833	C	ly
+Libya	Archaeological Site of Sabratha	1	12,485	32,80528	C	ly
+Libya	Archaeological Site of Cyrene	1	21,85833	32,825	C	ly
+Libya	Rock-Art Sites of Tadrart Acacus	1	10,33333	24,83333	C	ly
+Libya	Old Town of Ghadamès	1	9,5	30,13333333	C	ly
+Lithuania	Vilnius Historic Centre	0	25,29306	54,68667	C	lt
+Lithuania	Kernav?  Archaeological Site (Cultural Reserve of Kernav?)	0	24,83055556	54,88777778	C	lt
+Luxembourg	City of Luxembourg: its Old Quarters and Fortifications	0	6,13333	49,61	C	lu
+Madagascar	Tsingy de Bemaraha Strict Nature Reserve	0	44,75	-18,66667	N	mg
+Madagascar	Royal Hill of Ambohimanga	0	47,56278	-18,75917	C	mg
+Madagascar	Rainforests of the Atsinanana	1	49,7025	-14,45972222	N	mg
+Malawi	Lake Malawi National Park	0	34,88333	-14,03333	N	mw
+Malawi	Chongoni Rock-Art Area	0	34,27916667	-14,29333333	C	mw
+Malaysia	Kinabalu Park	0	116,5	6,25	N	my
+Malaysia	Gunung Mulu National Park	0	114,91667	4,13333	N	my
+Malaysia	Melaka and George Town, Historic Cities of the Straits of Malacca	0	100,3458333	5,421388889	C	my
+Malaysia	Archaeological Heritage of the Lenggong Valley	0	100,9723278	5,067908333	C	my
+Mali	Old Towns of Djenné	1	-4,555	13,90639	C	ml
+Mali	Timbuktu	1	-2,999444444	16,77333333	C	ml
+Mali	Cliff of Bandiagara (Land of the Dogons)	0	-3,41667	14,33333	M	ml
+Mali	Tomb of Askia	1	-0,04456	16,2898	C	ml
+Malta	?al Saflieni Hypogeum	0	14,50739	35,87134	C	mt
+Malta	City of Valletta	0	14,51444	35,90056	C	mt
+Malta	Megalithic Temples of Malta	0	14,26947	36,04908	C	mt
+Marshall Islands	Bikini Atoll Nuclear Test Site	0	165,3805556	11,6	C	mh
+Mauritania	Banc d'Arguin National Park	0	-16,10889	20,23472	N	mr
+Mauritania	Ancient <I>Ksour</I> of Ouadane, Chinguetti, Tichitt and Oualata	0	-11,62361	20,92889	C	mr
+Mauritius	Aapravasi Ghat	0	57,50316667	-20,15863889	C	mu
+Mauritius	Le Morne Cultural Landscape	0	57,32833333	-20,45194444	C	mu
+Mexico	Sian Ka'an	0	-87,79167	19,38333	N	mx
+Mexico	Pre-Hispanic City and National Park of Palenque	0	-92,05	17,48333	C	mx
+Mexico	Historic Centre of Mexico City and Xochimilco	0	-99,13278	19,41833	C	mx
+Mexico	Pre-Hispanic City of Teotihuacan	0	-98,84167	19,69167	C	mx
+Mexico	Historic Centre of Oaxaca and Archaeological Site of Monte Albán	0	-96,72167	17,06194	C	mx
+Mexico	Historic Centre of Puebla	0	-98,20833	19,04722	C	mx
+Mexico	Historic Town of Guanajuato and Adjacent Mines	0	-101,25556	21,01694	C	mx
+Mexico	Pre-Hispanic City of Chichen-Itza	0	-88,6	20,66667	C	mx
+Mexico	Whale Sanctuary of El Vizcaino	0	-114,22778	27,79222	N	mx
+Mexico	Archaeological Zone of Paquimé, Casas Grandes	0	-107,95556	30,37583	C	mx
+Mexico	Historic Centre of Morelia	0	-101,19167	19,70444	C	mx
+Mexico	El Tajin, Pre-Hispanic City	0	-97,3775	20,47639	C	mx
+Mexico	Historic Centre of Zacatecas	0	-102,55556	22,76667	C	mx
+Mexico	Earliest 16th-Century Monasteries on the Slopes of Popocatepetl	0	-98,89778	18,93472	C	mx
+Mexico	Rock Paintings of the Sierra de San Francisco	0	-112,91611	27,65556	C	mx
+Mexico	Pre-Hispanic Town of Uxmal	0	-89,77027778	20,36166667	C	mx
+Mexico	Historic Monuments Zone of Querétaro	0	-100,3666667	20,58333333	C	mx
+Mexico	Hospicio Cabañas, Guadalajara	0	-103,3397222	20,67388889	C	mx
+Mexico	Historic Monuments Zone of Tlacotalpan	0	-95,65833333	18,60833333	C	mx
+Mexico	Historic Fortified Town of Campeche	0	-90,53722	19,84639	C	mx
+Mexico	Archaeological Monuments Zone of Xochicalco	0	-99,275	18,81028	C	mx
+Mexico	Ancient Maya City and Protected Tropical Forests of Calakmul, Campeche	0	-89,73728333	18,05302778	M	mx
+Mexico	Franciscan Missions in the Sierra Gorda of Querétaro	0	-99,46411111	21,20438889	C	mx
+Mexico	Luis Barragán House and Studio	0	-99,19833333	19,41833333	C	mx
+Mexico	Islands and Protected Areas of the Gulf of California	1	-112,54583	27,62667	N	mx
+Mexico	Agave Landscape and Ancient Industrial Facilities of Tequila	0	-103,7786111	20,86305556	C	mx
+Mexico	Central University City Campus of the <i>Universidad Nacional Autónoma de México</i> (UNAM)	0	-99,18805556	19,33222222	C	mx
+Mexico	Protective town of San Miguel and the Sanctuary of Jesús Nazareno de Atotonilco	0	-100,7463889	20,91444444	C	mx
+Mexico	Monarch Butterfly Biosphere Reserve	0	-100,2416667	19,60638889	N	mx
+Mexico	Camino Real de Tierra Adentro	0	-102,3791667	22,60805556	C	mx
+Mexico	Prehistoric Caves of Yagul and Mitla in the Central Valley of Oaxaca	0	-96,42111111	16,95083333	C	mx
+Mexico	El Pinacate and Gran Desierto de Altar Biosphere Reserve	0	-113,9166667	32	N	mx
+Mexico	Aqueduct of Padre Tembleque Hydraulic System	0	-98,66256667	19,83527778	C	mx
+Mexico	Archipiélago de Revillagigedo	0	-110,9752778	18,78805556	N	mx
+Mexico	Tehuacán-Cuicatlán Valley: originary habitat of Mesoamerica	0	-97,18715278	17,98996111	M	mx
+Micronesia (Federated States of)	Nan Madol: Ceremonial Centre of Eastern Micronesia	1	158,3308333	6,839722222	C	fm
+Mongolia	Orkhon Valley Cultural Landscape	0	102,8313889	47,55666667	C	mn
+Mongolia	Petroglyphic Complexes of the Mongolian Altai	0	88,39527778	49,33388889	C	mn
+Mongolia	Great Burkhan Khaldun Mountain and its surrounding sacred landscape	0	109,0093278	48,76197778	C	mn
+Montenegro	Durmitor National Park	0	19,0166	43,133	N	me
+Montenegro	Natural and Culturo-Historical Region of Kotor	0	18,7	42,48333	C	me
+Morocco	Medina of Fez	0	-4,97778	34,06111	C	ma
+Morocco	Medina of Marrakesh	0	-7,98667	31,63139	C	ma
+Morocco	Ksar of Ait-Ben-Haddou	0	-7,12889	31,04722	C	ma
+Morocco	Medina of Essaouira (formerly Mogador)	0	-9,770305556	31,51411111	C	ma
+Morocco	Historic City of Meknes	0	-5,55833	33,88333	C	ma
+Morocco	Archaeological Site of Volubilis	0	-5,55694	34,07389	C	ma
+Morocco	Medina of Tétouan (formerly known as Titawin)	0	-5,36667	35,57083	C	ma
+Morocco	Portuguese City of Mazagan (El Jadida)	0	-8,50194	33,25667	C	ma
+Morocco	Rabat, Modern Capital and Historic City: a Shared Heritage	0	-6,822777778	34,02416667	C	ma
+Mozambique	Island of Mozambique	0	40,73583	-15,03417	C	mz
+Myanmar	Pyu Ancient Cities	0	95,81861111	22,47	C	mm
+Myanmar	Bagan	0	94,88444444	21,14888889	C	mm
+Namibia	Twyfelfontein or /Ui-//aes	0	14,37258333	-20,59558333	C	na
+Namibia	Namib Sand Sea	0	15,40777778	-24,88527778	N	na
+Nepal	Sagarmatha National Park	0	86,91306	27,96528	N	np
+Nepal	Kathmandu Valley 	0	85,30858	27,70395	C	np
+Nepal	Chitwan National Park	0	84,33333	27,5	N	np
+Nepal	Lumbini, the Birthplace of the Lord Buddha	0	83,27611	27,46889	C	np
+Netherlands	Schokland and Surroundings	0	5,771666667	52,63861111	C	nl
+Netherlands	Defence Line of Amsterdam	0	4,893055556	52,37444444	C	nl
+Netherlands	Mill Network at Kinderdijk-Elshout	0	4,649444444	51,8825	C	nl
+Netherlands	Historic Area of Willemstad, Inner City and Harbour, Curaçao	0	-68,90222	12,10194	C	nl
+Netherlands	Ir.D.F. Woudagemaal (D.F. Wouda Steam Pumping Station)	0	5,67889	52,84583	C	nl
+Netherlands	Droogmakerij de Beemster (Beemster Polder)	0	4,911111111	52,54888889	C	nl
+Netherlands	Rietveld Schröderhuis (Rietveld Schröder House)	0	5,147555556	52,08533333	C	nl
+Netherlands	Seventeenth-Century Canal Ring Area of Amsterdam inside the Singelgracht	0	4,887777778	52,365	C	nl
+Netherlands	Van Nellefabriek	0	4,418333333	51,92333333	C	nl
+New Zealand	Tongariro National Park	0	175,5622222	-39,29083333	M	nz
+New Zealand	Te Wahipounamu – South West New Zealand	0	167,3196111	-45,03602778	N	nz
+New Zealand	New Zealand Sub-Antarctic Islands	0	166,1044444	-50,75	N	nz
+Nicaragua	Ruins of León Viejo	0	-86,61028	12,39722	C	ni
+Nicaragua	León Cathedral	0	-86,87805556	12,435	C	ni
+Niger	Air and Ténéré Natural Reserves	1	9	18	N	ne
+Niger	Historic Centre of Agadez	0	7,991388889	16,97361111	C	ne
+Nigeria	Sukur Cultural Landscape	0	13,57194	10,74056	C	ng
+Nigeria	Osun-Osogbo Sacred Grove	0	4,55222	7,75556	C	ng
+Norway	Røros Mining Town and the Circumference	0	11,38555556	62,57388889	C	no
+Norway	Urnes Stave Church	0	7,33333	61,3	C	no
+Norway	Bryggen	0	5,32306	60,39722	C	no
+Norway	Rock Art of Alta	0	23,18333	69,95	C	no
+Norway	Vegaøyan – The Vega Archipelago	0	11,75	65,61667	C	no
+Norway	West Norwegian Fjords – Geirangerfjord and Nærøyfjord	0	7,16667	62,11667	N	no
+Norway	Rjukan-Notodden Industrial Heritage Site	0	8,593611111	59,87861111	C	no
+Oman	Bahla Fort	0	57,30111	22,96417	C	om
+Oman	Archaeological Sites of Bat, Al-Khutm and Al-Ayn	0	56,745	23,26986	C	om
+Oman	Land of Frankincense	0	53,64759	18,25333	C	om
+Oman	<i>Aflaj</i> Irrigation Systems of Oman	0	57,53605556	22,99888889	C	om
+Oman	Ancient City of Qalhat	0	59,37811111	22,69522222	C	om
+Pakistan	Archaeological Ruins at Moenjodaro	0	68,13888889	27,32916667	C	pk
+Pakistan	Taxila	0	72,8875	33,77916667	C	pk
+Pakistan	Buddhist Ruins of Takht-i-Bahi and Neighbouring City Remains at Sahr-i-Bahlol	0	71,94583333	34,32083333	C	pk
+Pakistan	Historical Monuments at Makli, Thatta	0	67,9	24,76666667	C	pk
+Pakistan	Fort and Shalamar Gardens in Lahore	0	74,30972222	31,59027778	C	pk
+Pakistan	Rohtas Fort	0	73,58888889	32,9625	C	pk
+Palau	Rock Islands Southern Lagoon	0	134,3525	7,246925	M	pw
+Palestine	Birthplace of Jesus: Church of the Nativity and the Pilgrimage Route, Bethlehem	0	35,2075	31,70435278	C	ps
+Palestine	Palestine: Land of Olives and Vines – Cultural Landscape of Southern Jerusalem, Battir	1	35,13055556	31,71972222	C	ps
+Palestine	Hebron/Al-Khalil Old Town	1	35,10888889	31,52416667	C	ps
+Panama	Fortifications on the Caribbean Side of Panama: Portobelo-San Lorenzo	1	-79,65583333	9,553888889	C	pa
+Panama	Darien National Park	0	-77,54722222	7,736111111	N	pa
+Panama	Archaeological Site of Panamá Viejo and Historic District of Panamá	0	-79,54055556	8,951111111	C	pa
+Panama	Coiba National Park and its Special Zone of Marine Protection	0	-81,766	7,433	N	pa
+Papua New Guinea	Kuk Early Agricultural Site	0	144,3317222	-5,783711111	C	pg
+Paraguay	Jesuit Missions of La Santísima Trinidad de Paraná and Jesús de Tavarangue	0	-55,7	-27,13333	C	py
+Peru	City of Cuzco	0	-71,98333	-13,52222	C	pe
+Peru	Historic Sanctuary of Machu Picchu	0	-72,58333333	-13,11666667	M	pe
+Peru	Chavin (Archaeological Site)	0	-77,1784535	-9,592772544	C	pe
+Peru	Huascarán National Park	0	-77,4	-9,33333	N	pe
+Peru	Chan Chan Archaeological Zone	1	-79,08333	-8,1	C	pe
+Peru	Manú National Park	0	-71,75	-12,25	N	pe
+Peru	Historic Centre of Lima	0	-77,04306	-12,05139	C	pe
+Peru	Río Abiseo National Park	0	-77,25	-7,75	M	pe
+Peru	Lines and Geoglyphs of Nasca and Palpa	0	-75,14861	-14,72583	C	pe
+Peru	Historical Centre of the City of Arequipa	0	-71,53333333	-16,4	C	pe
+Peru	Sacred City of Caral-Supe	0	-77,52138889	-10,89166667	C	pe
+Philippines	Historic City of Vigan	0	120,3875	17,575	C	ph
+Philippines	Puerto-Princesa Subterranean River National Park	0	118,9166667	10,16666667	N	ph
+Philippines	Tubbataha Reefs Natural Park	0	119,8675	8,953333333	N	ph
+Philippines	Baroque Churches of the Philippines	0	120,97	14,59	C	ph
+Philippines	Rice Terraces of the Philippine Cordilleras	0	121,13667	16,93389	C	ph
+Philippines	Mount Hamiguitan Range Wildlife Sanctuary	0	126,1734306	6,717169444	N	ph
+Poland	Historic Centre of Kraków	0	19,93722222	50,06138889	C	pl
+Poland	Historic Centre of Warsaw	0	21,01167	52,26639	C	pl
+Poland	Auschwitz Birkenau <br /><small>German Nazi Concentration and Extermination Camp (1940-1945)</small>	0	19,175	50,03888889	C	pl
+Poland	Wieliczka and Bochnia Royal Salt Mines	0	20,06388889	49,97916667	C	pl
+Poland	Old City of Zamo??	0	23,26667	50,71667	C	pl
+Poland	Medieval Town of Toru?	0	18,61944	53,01	C	pl
+Poland	Castle of the Teutonic Order in Malbork	0	19,03333333	54,04166667	C	pl
+Poland	Kalwaria Zebrzydowska: the Mannerist Architectural and Park Landscape Complex and Pilgrimage Park	0	19,66666667	49,86666667	C	pl
+Poland	Wooden Churches of Southern Ma?opolska	0	21,23333333	49,75	C	pl
+Poland	Churches of Peace in Jawor and ?widnica	0	16,19594444	51,05427778	C	pl
+Poland	Centennial Hall in Wroc?aw	0	17,07701389	51,10694722	C	pl
+Poland	Tarnowskie Góry Lead-Silver-Zinc Mine and its Underground Water Management System	0	18,85122778	50,44269722	C	pl
+Poland	Krzemionki Prehistoric Striped Flint Mining Region	0	21,50230556	50,96797222	C	pl
+Portugal	Central Zone of the Town of Angra do Heroismo in the Azores	0	-27,22	38,655	C	pt
+Portugal	Monastery of the Hieronymites and Tower of Belém in Lisbon	0	-9,21583	38,69194	C	pt
+Portugal	Monastery of Batalha	0	-8,82694	39,65778	C	pt
+Portugal	Convent of Christ in Tomar	0	-8,4175	39,60472	C	pt
+Portugal	Historic Centre of Évora	0	-7,90778	38,57306	C	pt
+Portugal	Monastery of Alcobaça	0	-8,97667	39,55	C	pt
+Portugal	Cultural Landscape of Sintra	0	-9,41667	38,78333	C	pt
+Portugal	Historic Centre of Oporto, Luiz I Bridge and Monastery of Serra do Pilar 	0	-8,616666667	41,14166667	C	pt
+Portugal	Laurisilva of Madeira	0	-17	32,76666667	N	pt
+Portugal	Historic Centre of Guimarães	0	-8,292803	41,443731	C	pt
+Portugal	Alto Douro Wine Region	0	-7,798888889	41,10166667	C	pt
+Portugal	Landscape of the Pico Island Vineyard Culture	0	-28,54116667	38,51344444	C	pt
+Portugal	Garrison Border Town of Elvas and its Fortifications	0	-7,163322222	38,88061944	C	pt
+Portugal	University of Coimbra – Alta and Sofia	0	-8,425775	40,20781111	C	pt
+Portugal	Royal Building of <i>Mafra</i> – Palace, Basilica, Convent, <i>Cerco</i> Garden and Hunting Park (<i>Tapada</i>)	0	-9,325527778	38,93716667	C	pt
+Portugal	Sanctuary of Bom Jesus do Monte in Braga	0	-8,377027778	41,55494444	C	pt
+Qatar	Al Zubarah Archaeological Site	0	51,02972222	25,97805556	C	qa
+Republic of Korea	Seokguram Grotto and Bulguksa Temple	0	129,35	35,78333333	C	kr
+Republic of Korea	Haeinsa Temple Janggyeong Panjeon, the Depositories for the <I>Tripitaka Koreana</I> Woodblocks	0	128,1	35,8	C	kr
+Republic of Korea	Jongmyo Shrine	0	126,98333	37,55	C	kr
+Republic of Korea	Changdeokgung Palace Complex	0	126,9833333	37,55	C	kr
+Republic of Korea	Hwaseong Fortress	0	127,00833	37,27222	C	kr
+Republic of Korea	Gyeongju Historic Areas	0	129,22667	35,78889	C	kr
+Republic of Korea	Gochang, Hwasun and Ganghwa Dolmen Sites	0	126,92917	34,96667	C	kr
+Republic of Korea	Jeju Volcanic Island and Lava Tubes	0	126,7202778	33,46888889	N	kr
+Republic of Korea	Royal Tombs of the Joseon Dynasty	0	128,4527778	37,19722222	C	kr
+Republic of Korea	Historic Villages of Korea: Hahoe and Yangdong	0	128,5166667	36,53916667	C	kr
+Republic of Korea	Namhansanseong	0	127,1811111	37,47888889	C	kr
+Republic of Korea	Baekje Historic Areas	0	127,1272222	36,46194444	C	kr
+Republic of Korea	Seowon, Korean Neo-Confucian Academies	0	128,8434278	36,72729722	C	kr
+Republic of Korea	Sansa, Buddhist Mountain Monasteries in Korea	0	127,8333333	36,54194444	C	kr
+Romania	Danube Delta	0	29,5	45,08333	N	ro
+Romania	Villages with Fortified Churches in Transylvania	0	24,77305556	46,13583333	C	ro
+Romania	Monastery of Horezu	0	24,01666667	45,18333333	C	ro
+Romania	Churches of Moldavia	0	25,71277778	47,77833333	C	ro
+Romania	Historic Centre of Sighi?oara	0	24,79222222	46,21777778	C	ro
+Romania	Wooden Churches of Maramure?	0	24,05583333	47,82083333	C	ro
+Romania	Dacian Fortresses of the Orastie Mountains	0	23,31194444	45,62305556	C	ro
+Russian Federation	Historic Centre of Saint Petersburg and Related Groups of Monuments	0	30,31833	59,95	C	ru
+Russian Federation	Kizhi Pogost	0	35,2275	62,07138889	C	ru
+Russian Federation	Kremlin and Red Square, Moscow	0	37,62972	55,74583	C	ru
+Russian Federation	Historic Monuments of Novgorod and Surroundings	0	31,28333	58,53333	C	ru
+Russian Federation	Cultural and Historic Ensemble of the Solovetsky Islands	0	35,66666667	65,08333333	C	ru
+Russian Federation	White Monuments of Vladimir and Suzdal	0	40,41666667	56,15	C	ru
+Russian Federation	Church of the Ascension, Kolomenskoye	0	37,67389	55,65556	C	ru
+Russian Federation	Architectural Ensemble of the Trinity Sergius Lavra in Sergiev Posad	0	38,1312	56,31035	C	ru
+Russian Federation	Virgin Komi Forests	0	58,9525	63,62583333	N	ru
+Russian Federation	Lake Baikal	0	107,6625	53,17361111	N	ru
+Russian Federation	Volcanoes of Kamchatka	0	158,5	56,33333333	N	ru
+Russian Federation	Central Sikhote-Alin	0	136,6611111	46,68333333	N	ru
+Russian Federation	Golden Mountains of Altai	0	86	50,46666667	N	ru
+Russian Federation	Western Caucasus	0	40	44	N	ru
+Russian Federation	Historic and Architectural Complex of the Kazan Kremlin	0	49,095	55,79111111	C	ru
+Russian Federation	Bolgar Historical and Archaeological Complex	0	49,05638889	54,97888889	C	ru
+Russian Federation	Ensemble of the Ferapontov Monastery	0	38,56666667	59,95	C	ru
+Russian Federation	Natural System of Wrangel Island Reserve	0	-179,7152778	71,18888889	N	ru
+Russian Federation	Citadel, Ancient City and Fortress Buildings of Derbent	0	48,29719444	42,05297222	C	ru
+Russian Federation	Ensemble of the Novodevichy Convent	0	37,55508333	55,72611111	C	ru
+Russian Federation	Historical Centre of the City of Yaroslavl	0	39,87611	57,65278	C	ru
+Russian Federation	Putorana Plateau	0	94,15805556	69,04694444	N	ru
+Russian Federation	Lena Pillars Nature Park	0	127	60,66666667	N	ru
+Russian Federation	Churches of the Pskov School of Architecture	0	28,32855556	57,80719444	C	ru
+Russian Federation	Assumption Cathedral and Monastery of the town-island of Sviyazhsk	0	48,65277778	55,77027778	C	ru
+Saint Kitts and Nevis	Brimstone Hill Fortress National Park	0	-62,83722	17,34694	C	kn
+Saint Lucia	Pitons Management Area	0	-61,07036111	13,80708333	N	lc
+San Marino	San Marino Historic Centre and Mount Titano	0	12,45194444	43,93277778	C	sm
+Saudi Arabia	Al-Hijr Archaeological Site (Madâin Sâlih)	0	37,955	26,78361111	C	sa
+Saudi Arabia	At-Turaif District in ad-Dir'iyah	0	46,57246667	24,73413333	C	sa
+Saudi Arabia	Historic Jeddah, the Gate to Makkah	0	39,1875	21,48388889	C	sa
+Saudi Arabia	Rock Art in the Hail Region of Saudi Arabia	0	40,91305556	28,01055556	C	sa
+Saudi Arabia	Al-Ahsa Oasis, an Evolving Cultural Landscape	0	49,63056944	25,40216667	C	sa
+Senegal	Djoudj National Bird Sanctuary	0	-16,16667	16,5	N	sn
+Senegal	Island of Gorée	0	-17,40083	14,66722	C	sn
+Senegal	Niokolo-Koba National Park	1	-12,71667	13,06667	N	sn
+Senegal	Island of Saint-Louis	0	-16,50444	16,02778	C	sn
+Senegal	Saloum Delta	0	-16,49861111	13,83527778	C	sn
+Senegal	Bassari Country: Bassari, Fula and Bedik Cultural Landscapes	0	-12,84583333	12,59333333	C	sn
+Serbia	Stari Ras and Sopo?ani	0	20,42278	43,11889	C	rs
+Serbia	Studenica Monastery	0	20,53667	43,48611	C	rs
+Serbia	Medieval Monuments in Kosovo	1	20,26555556	42,66111111	C	rs
+Serbia	Gamzigrad-Romuliana, Palace of Galerius	0	22,18611111	43,89930556	C	rs
+Seychelles	Aldabra Atoll	0	46,41666667	-9,416666667	N	sc
+Seychelles	Vallée de Mai Nature Reserve	0	55,7375	-4,32917	N	sc
+Singapore	Singapore Botanic Gardens	0	103,8161111	1,315277778	C	sg
+Slovakia	Historic Town of Banská Štiavnica and the Technical Monuments in its Vicinity	0	18,9	48,46111	C	sk
+Slovakia	Levo?a, Spišský Hrad and the Associated Cultural Monuments	0	20,7675	48,99944444	C	sk
+Slovakia	Vlkolínec	0	19,27833333	49,03916667	C	sk
+Slovakia	Bardejov Town Conservation Reserve	0	21,27555556	49,29277778	C	sk
+Slovakia	Wooden Churches of the Slovak part of the Carpathian Mountain Area	0	19,55833333	49,33611111	C	sk
+Slovenia	Škocjan Caves	0	14	45,66667	N	si
+Solomon Islands	East Rennell	1	160,33333	-11,68333	N	sb
+South Africa	iSimangaliso Wetland Park	0	32,55	-27,83889	N	za
+South Africa	Fossil Hominid Sites of South Africa	0	29,17694	-24,15861	C	za
+South Africa	Robben Island	0	18,36666667	-33,8	C	za
+South Africa	Cape Floral Region Protected Areas	0	18,475	-34,36111111	N	za
+South Africa	Mapungubwe Cultural Landscape	0	29,23889	-22,1925	C	za
+South Africa	Vredefort Dome	0	27,26	-26,86	N	za
+South Africa	Richtersveld Cultural and Botanical Landscape	0	17,20388889	-28,6	C	za
+South Africa	?Khomani Cultural Landscape	0	20,37458333	-25,68761111	C	za
+South Africa	Barberton Makhonjwa Mountains	0	31,01388889	-25,97388889	N	za
+Spain	Cave of Altamira and Paleolithic Cave Art of Northern Spain	0	-4,116166667	43,38252778	C	es
+Spain	Old Town of Segovia and its Aqueduct	0	-4,11675	40,94847222	C	es
+Spain	Monuments of Oviedo and the Kingdom of the Asturias	0	-5,84303	43,36262	C	es
+Spain	Historic Centre of Cordoba	0	-4,779722222	37,87919444	C	es
+Spain	Alhambra, Generalife and Albayzín, Granada	0	-3,59444	37,17667	C	es
+Spain	Burgos Cathedral	0	-3,704011111	42,34073333	C	es
+Spain	Monastery and Site of the Escurial, Madrid	0	-4,126416667	40,58175	C	es
+Spain	Works of Antoni Gaudí 	0	2,152972	41,41338	C	es
+Spain	Santiago de Compostela (Old Town)	0	-8,54468	42,88076	C	es
+Spain	Old Town of Ávila with its Extra-Muros Churches	0	-4,70012	40,65645	C	es
+Spain	Mudejar Architecture of Aragon	0	-1,10722	40,34389	C	es
+Spain	Historic City of Toledo	0	-4,029416667	39,86688889	C	es
+Spain	Garajonay National Park	0	-17,23722222	28,12625	N	es
+Spain	Old City of Salamanca	0	-5,6645	40,96525	C	es
+Spain	Cathedral, Alcázar and Archivo de Indias in Seville	0	-5,99155	37,38384	C	es
+Spain	Old Town of Cáceres	0	-6,37	39,47444	C	es
+Spain	Ibiza, Biodiversity and Culture	0	1,435194444	38,91113889	M	es
+Spain	Poblet Monastery	0	1,0825	41,38083	C	es
+Spain	Renaissance Monumental Ensembles of Úbeda and Baeza	0	-3,37122	38,01131	C	es
+Spain	Archaeological Ensemble of Mérida	0	-6,33778	38,91611	C	es
+Spain	Royal Monastery of Santa María de Guadalupe	0	-5,3275	39,45285	C	es
+Spain	Routes of Santiago de Compostela: <i>Camino Francés</i> and Routes of Northern Spain 	0	-6,414722222	43,335	C	es
+Spain	Doñana National Park	0	-6,358861	36,9477	N	es
+Spain	Historic Walled Town of Cuenca	0	-2,13174	40,07662	C	es
+Spain	La Lonja de la Seda de Valencia	0	-0,378444444	39,47441667	C	es
+Spain	Las Médulas	0	-6,77075	42,46939	C	es
+Spain	Palau de la Música Catalana and Hospital de Sant Pau, Barcelona	0	2,175	41,38778	C	es
+Spain	San Millán Yuso and Suso Monasteries	0	-2,86496	42,32586	C	es
+Spain	Rock Art of the Mediterranean Basin on the Iberian Peninsula	0	-1,03331	39,78995	C	es
+Spain	Archaeological Ensemble of Tárraco	0	1,259305556	41,11472222	C	es
+Spain	University and Historic Precinct of Alcalá de Henares	0	-3,368055556	40,48138889	C	es
+Spain	San Cristóbal de La Laguna	0	-16,31177778	28,47788889	C	es
+Spain	Palmeral of Elche	0	-0,716666667	38,26666667	C	es
+Spain	Roman Walls of Lugo	0	-7,55333	43,01111	C	es
+Spain	Catalan Romanesque Churches of the Vall de Boí	0	0,803611111	42,50472222	C	es
+Spain	Archaeological Site of Atapuerca	0	-3,547222222	42,37138889	C	es
+Spain	Aranjuez Cultural Landscape	0	-3,60934	40,03645	C	es
+Spain	Vizcaya Bridge	0	-3,016833333	43,323175	C	es
+Spain	Teide National Park	0	-16,64361111	28,27138889	N	es
+Spain	Tower of Hercules	0	-8,406388889	43,38583333	C	es
+Spain	Cultural Landscape of the Serra de Tramuntana	0	2,694722222	39,73083333	C	es
+Spain	Antequera Dolmens Site	0	-4,544444444	37,025	C	es
+Spain	Caliphate City of Medina Azahara	0	-4,867694444	37,88588889	C	es
+Spain	Risco Caido and the Sacred Mountains of Gran Canaria Cultural Landscape	0	-15,66119444	28,04438889	C	es
+Sri Lanka	Sacred City of Anuradhapura	0	80,38333333	8,333333333	C	lk
+Sri Lanka	Ancient City of Polonnaruwa	0	81,00055556	7,915833333	C	lk
+Sri Lanka	Ancient City of Sigiriya	0	80,75	7,95	C	lk
+Sri Lanka	Sinharaja Forest Reserve	0	80,5	6,416666667	N	lk
+Sri Lanka	Sacred City of Kandy	0	80,64027778	7,293611111	C	lk
+Sri Lanka	Old Town of Galle and its Fortifications	0	80,21861111	6,021388889	C	lk
+Sri Lanka	Golden Temple of Dambulla	0	80,64916667	7,856666667	C	lk
+Sri Lanka	Central Highlands of Sri Lanka	0	80,8021	7,45245	N	lk
+Sudan	Sanganeb Marine National Park and Dungonab Bay – Mukkawar Island Marine National Park	0	37,44305556	19,73611111	N	sd
+Sudan	Gebel Barkal and the Sites of the Napatan Region	0	31,82802778	18,537	C	sd
+Sudan	Archaeological Sites of the Island of Meroe	0	33,71666667	16,93333333	C	sd
+Suriname	Historic Inner City of Paramaribo	0	-55,15	5,82611	C	sr
+Suriname	Central Suriname Nature Reserve	0	-56,5	4	N	sr
+Sweden	Birka and Hovgården	0	17,54264	59,33514	C	se
+Sweden	Engelsberg Ironworks	0	16,00833	59,96667	C	se
+Sweden	Rock Carvings in Tanum	0	11,34111	58,70111	C	se
+Sweden	Skogskyrkogården	0	18,09944	59,27556	C	se
+Sweden	Royal Domain of Drottningholm	0	17,88333	59,32306	C	se
+Sweden	Hanseatic Town of Visby	0	18,29583	57,64167	C	se
+Sweden	Church Town of Gammelstad, Luleå 	0	22,02861	65,64611	C	se
+Sweden	Laponian Area	0	17,58333	67,33333	M	se
+Sweden	Naval Port of Karlskrona	0	15,58333	56,16667	C	se
+Sweden	Agricultural Landscape of Southern Öland	0	16,48333	56,325	C	se
+Sweden	Mining Area of the Great Copper Mountain in Falun	0	15,63083	60,60472	C	se
+Sweden	Grimeton Radio Station, Varberg	0	12,38333333	57,1	C	se
+Sweden	Decorated Farmhouses of Hälsingland	0	16,19583333	61,70722222	C	se
+Switzerland	Old City of Berne	0	7,45028	46,94806	C	ch
+Switzerland	Abbey of St Gall	0	9,37778	47,42333	C	ch
+Switzerland	Benedictine Convent of St John at Müstair	0	10,44765	46,62945	C	ch
+Switzerland	Three Castles, Defensive Wall and Ramparts of the Market-Town of Bellinzona	0	9,02242	46,19314	C	ch
+Switzerland	Swiss Alps Jungfrau-Aletsch	0	8,033333333	46,5	N	ch
+Switzerland	Swiss Tectonic Arena Sardona	0	9,25	46,91666667	N	ch
+Switzerland	Lavaux, Vineyard Terraces	0	6,746111111	46,49194444	C	ch
+Switzerland	La Chaux-de-Fonds / Le Locle, Watchmaking Town Planning	0	6,832777778	47,10388889	C	ch
+Syrian Arab Republic	Ancient City of Damascus	1	36,30639	33,51139	C	sy
+Syrian Arab Republic	Ancient City of Aleppo	1	37,16277778	36,19916667	C	sy
+Syrian Arab Republic	Ancient City of Bosra	1	36,48167	32,51806	C	sy
+Syrian Arab Republic	Site of Palmyra	1	38,26667	34,55417	C	sy
+Syrian Arab Republic	Crac des Chevaliers and Qal’at Salah El-Din	1	36,26305556	34,78166667	C	sy
+Syrian Arab Republic	Ancient Villages of Northern Syria	1	36,84416667	36,33416667	C	sy
+Tajikistan	Proto-urban Site of Sarazm	0	67,46027778	39,50777778	C	tj
+Tajikistan	Tajik National Park (Mountains of the Pamirs)	0	72,30527778	38,765	N	tj
+Thailand	Historic Town of Sukhothai and Associated Historic Towns	0	99,78972	17,00722	C	th
+Thailand	Ban Chiang Archaeological Site	0	103,35833	17,54861	C	th
+Thailand	Historic City of Ayutthaya	0	100,56056	14,34778	C	th
+Thailand	Dong Phayayen-Khao Yai Forest Complex	0	102,05	14,33	N	th
+Thailand	Thungyai-Huai Kha Khaeng Wildlife Sanctuaries	0	98,91667	15,33333	N	th
+Togo	Koutammakou, the Land of the Batammariba	0	1,133333333	10,06666667	C	tg
+Tunisia	Ichkeul National Park	0	9,67472	37,16361	N	tn
+Tunisia	Medina of Tunis	0	10,16667	36,81667	C	tn
+Tunisia	Archaeological Site of Carthage	0	10,32333	36,85278	C	tn
+Tunisia	Amphitheatre of El Jem	0	10,70694	35,29639	C	tn
+Tunisia	Punic Town of Kerkuane and its Necropolis	0	11,09917	36,94639	C	tn
+Tunisia	Medina of Sousse	0	10,63861	35,82778	C	tn
+Tunisia	Kairouan	0	10,10389	35,68167	C	tn
+Tunisia	Dougga / Thugga	0	9,22028	36,42361	C	tn
+Turkey	Historic Areas of Istanbul	0	28,97993	41,00847	C	tr
+Turkey	Göreme National Park and the Rock Sites of Cappadocia	0	34,85	38,66667	M	tr
+Turkey	Great Mosque and Hospital of Divri?i	0	38,121826	39,371271	C	tr
+Turkey	Hattusha: the Hittite Capital	0	34,62056	40,01389	C	tr
+Turkey	Nemrut Da?	0	38,76369	38,03661	C	tr
+Turkey	Xanthos-Letoon	0	29,32028	36,335	C	tr
+Turkey	Hierapolis-Pamukkale	0	29,12333	37,92389	M	tr
+Turkey	City of Safranbolu	0	32,68972	41,26	C	tr
+Turkey	Archaeological Site of Troy	0	26,239	39,95644	C	tr
+Turkey	Ephesus	0	27,35944444	37,92916667	C	tr
+Turkey	Selimiye Mosque and its Social Complex	0	26,55944444	41,67777778	C	tr
+Turkey	Neolithic Site of Çatalhöyük	0	32,82805556	37,66666667	C	tr
+Turkey	Bursa and Cumal?k?z?k: the Birth of the Ottoman Empire	0	29,06233611	40,18473056	C	tr
+Turkey	Pergamon and its Multi-Layered Cultural Landscape	0	27,18	39,12583333	C	tr
+Turkey	Diyarbak?r Fortress and Hevsel Gardens Cultural Landscape	0	40,23930833	37,9031	C	tr
+Turkey	Archaeological Site of Ani	0	43,56666667	40,5	C	tr
+Turkey	Aphrodisias	0	28,72361111	37,70833333	C	tr
+Turkey	Göbekli Tepe	0	38,92236389	37,22324194	C	tr
+Turkmenistan	State Historical and Cultural Park “Ancient Merv”	0	62,1775	37,70083	C	tm
+Turkmenistan	Kunya-Urgench	0	59,08494	42,18318	C	tm
+Turkmenistan	Parthian Fortresses of Nisa	0	58,19861111	37,99972222	C	tm
+Uganda	Bwindi Impenetrable National Park	0	29,66138889	-1,080555556	N	ug
+Uganda	Rwenzori Mountains National Park	0	29,92416667	0,223611111	N	ug
+Uganda	Tombs of Buganda Kings at Kasubi	1	32,55138889	0,348611111	C	ug
+Ukraine	Kiev: Saint-Sophia Cathedral and Related Monastic Buildings, Kiev-Pechersk Lavra	0	30,51686	50,45258	C	ua
+Ukraine	L'viv – the Ensemble of the Historic Centre	0	24,03198	49,84163	C	ua
+Ukraine	Residence of Bukovinian and Dalmatian Metropolitans	0	25,92472222	48,29666667	C	ua
+Ukraine	Ancient City of Tauric Chersonese and its Chora	0	33,49138889	44,61083333	C	ua
+United Arab Emirates	Cultural Sites of Al Ain (Hafit, Hili, Bidaa Bint Saud and Oases Areas)	0	55,80638889	24,06777778	C	ae
+United Kingdom of Great Britain and Northern Ireland	Giant's Causeway and Causeway Coast	0	-6,485277778	55,25	N	gb
+United Kingdom of Great Britain and Northern Ireland	Durham Castle and Cathedral	0	-1,576111111	54,77472222	C	gb
+United Kingdom of Great Britain and Northern Ireland	Ironbridge Gorge	0	-2,472777778	52,62638889	C	gb
+United Kingdom of Great Britain and Northern Ireland	Studley Royal Park including the Ruins of Fountains Abbey	0	-1,573055556	54,11611111	C	gb
+United Kingdom of Great Britain and Northern Ireland	Stonehenge, Avebury and Associated Sites	0	-1,825277778	51,17888889	C	gb
+United Kingdom of Great Britain and Northern Ireland	Castles and Town Walls of King Edward in Gwynedd	0	-4,276944444	53,13972222	C	gb
+United Kingdom of Great Britain and Northern Ireland	St Kilda	0	-8,576666667	57,81722222	M	gb
+United Kingdom of Great Britain and Northern Ireland	The English Lake District	0	-3,082416667	54,47661111	C	gb
+United Kingdom of Great Britain and Northern Ireland	Blenheim Palace	0	-1,361388889	51,84194444	C	gb
+United Kingdom of Great Britain and Northern Ireland	Palace of Westminster and Westminster Abbey including Saint Margaret’s Church	0	-0,128611111	51,49972222	C	gb
+United Kingdom of Great Britain and Northern Ireland	City of Bath	0	-2,358611111	51,38138889	C	gb
+United Kingdom of Great Britain and Northern Ireland	New Lanark	0	-3,783055556	55,66333333	C	gb
+United Kingdom of Great Britain and Northern Ireland	Henderson Island	0	-128,3333333	-24,36666667	N	gb
+United Kingdom of Great Britain and Northern Ireland	Tower of London	0	-0,076111111	51,50805556	C	gb
+United Kingdom of Great Britain and Northern Ireland	Canterbury Cathedral, St Augustine's Abbey, and St Martin's Church	0	1,083333333	51,28	C	gb
+United Kingdom of Great Britain and Northern Ireland	Heart of Neolithic Orkney	0	-3,188666667	58,99605556	C	gb
+United Kingdom of Great Britain and Northern Ireland	Old and New Towns of Edinburgh	0	-3,216666667	55,95	C	gb
+United Kingdom of Great Britain and Northern Ireland	Gough and Inaccessible Islands	0	-9,928611111	-40,32472222	N	gb
+United Kingdom of Great Britain and Northern Ireland	Maritime Greenwich	0	-0,003777778	51,48116667	C	gb
+United Kingdom of Great Britain and Northern Ireland	Historic Town of St George and Related Fortifications, Bermuda	0	-64,67777778	32,37944444	C	gb
+United Kingdom of Great Britain and Northern Ireland	Blaenavon Industrial Landscape	0	-3,088055556	51,77638889	C	gb
+United Kingdom of Great Britain and Northern Ireland	Saltaire	0	-1,788333333	53,83916667	C	gb
+United Kingdom of Great Britain and Northern Ireland	Dorset and East Devon Coast	0	-2,989888889	50,70555556	N	gb
+United Kingdom of Great Britain and Northern Ireland	Derwent Valley Mills	0	-1,488055556	53,02888889	C	gb
+United Kingdom of Great Britain and Northern Ireland	Royal Botanic Gardens, Kew	0	-0,294027778	51,48194444	C	gb
+United Kingdom of Great Britain and Northern Ireland	Liverpool – Maritime Mercantile City	1	-2,994444444	53,40666667	C	gb
+United Kingdom of Great Britain and Northern Ireland	Cornwall and West Devon Mining Landscape	0	-5,383611111	50,13611111	C	gb
+United Kingdom of Great Britain and Northern Ireland	Pontcysyllte Aqueduct and Canal	0	-3,087777778	52,97027778	C	gb
+United Kingdom of Great Britain and Northern Ireland	The Forth Bridge	0	-3,388888889	56,00111111	C	gb
+United Kingdom of Great Britain and Northern Ireland	Gorham's Cave Complex	0	-5,342061111	36,12266944	C	gb
+United Kingdom of Great Britain and Northern Ireland	Jodrell Bank Observatory	0	-2,303861111	53,23391667	C	gb
+United Republic of Tanzania	Ngorongoro Conservation Area	0	35,54083	-3,18722	M	tz
+United Republic of Tanzania	Ruins of Kilwa Kisiwani and Ruins of Songo Mnara	0	39,52278	-8,95778	C	tz
+United Republic of Tanzania	Serengeti National Park	0	34,56667	-2,33333	N	tz
+United Republic of Tanzania	Stone Town of Zanzibar	0	39,18917	-6,16306	C	tz
+United Republic of Tanzania	Selous Game Reserve	1	37,4	-9	N	tz
+United Republic of Tanzania	Kilimanjaro National Park	0	37,36667	-3,06667	N	tz
+United Republic of Tanzania	Kondoa Rock-Art Sites	0	35,83388889	-4,724444444	C	tz
+United States of America	Mesa Verde National Park	0	-108,4855556	37,26166667	C	us
+United States of America	Yellowstone National Park	0	-110,82778	44,46056	N	us
+United States of America	Grand Canyon National Park	0	-112,0905556	36,10083333	N	us
+United States of America	Everglades National Park	1	-80,99638889	25,55444444	N	us
+United States of America	Independence Hall	0	-75,15	39,94861111	C	us
+United States of America	Redwood National and State Parks	0	-123,9980556	41,37388889	N	us
+United States of America	Mammoth Cave National Park	0	-86,10305556	37,18722222	N	us
+United States of America	Olympic National Park	0	-123,4488889	47,74833333	N	us
+United States of America	Cahokia Mounds State Historic Site	0	-90,06138889	38,65861111	C	us
+United States of America	Great Smoky Mountains National Park	0	-83,43555556	35,59305556	N	us
+United States of America	La Fortaleza and San Juan National Historic Site in Puerto Rico	0	-66,125	18,46666667	C	us
+United States of America	Statue of Liberty	0	-74,04472222	40,68944444	C	us
+United States of America	Yosemite National Park	0	-119,5966667	37,74611111	N	us
+United States of America	Chaco Culture	0	-107,9708333	36,06377778	C	us
+United States of America	Hawaii Volcanoes National Park	0	-155,1236111	19,40083333	N	us
+United States of America	Monticello and the University of Virginia in Charlottesville	0	-78,50388889	38,03277778	C	us
+United States of America	Taos Pueblo	0	-105,54167	36,43889	C	us
+United States of America	Carlsbad Caverns National Park	0	-104,3833333	32,16666667	N	us
+United States of America	Papah?naumoku?kea	0	-170,14582	25,34907	M	us
+United States of America	Monumental Earthworks of Poverty Point	0	-91,40638889	32,63694444	C	us
+United States of America	San Antonio Missions	0	-98,46	29,32805556	C	us
+United States of America	The 20th-Century Architecture of Frank Lloyd Wright	0	-79,46647556	39,90557083	C	us
+Uruguay	Historic Quarter of the City of Colonia del Sacramento	0	-57,85333333	-34,46777778	C	uy
+Uruguay	Fray Bentos Industrial Landscape	0	-58,33166667	-33,11777778	C	uy
+Uzbekistan	Itchan Kala	0	60,36389	41,37833	C	uz
+Uzbekistan	Historic Centre of Bukhara	0	64,42861	39,77472	C	uz
+Uzbekistan	Samarkand  – Crossroad of Cultures	0	67	39,66861	C	uz
+Uzbekistan	Historic Centre of Shakhrisyabz	1	66,83333	39,05	C	uz
+Vanuatu	Chief Roi Mata’s Domain	0	168,1777194	-17,62806944	C	vu
+Venezuela (Bolivarian Republic of)	Coro and its Port	1	-69,68333333	11,4	C	ve
+Venezuela (Bolivarian Republic of)	Canaima National Park	0	-61,5	5,33333	N	ve
+Venezuela (Bolivarian Republic of)	Ciudad Universitaria de Caracas	0	-66,89068	10,49073	C	ve
+Viet Nam	Ha Long Bay	0	107,1	20,9	N	vn
+Viet Nam	Complex of Hué Monuments	0	107,57778	16,46944	C	vn
+Viet Nam	Hoi An Ancient Town	0	108,3333333	15,88333333	C	vn
+Viet Nam	My Son Sanctuary	0	108,5666667	15,51666667	C	vn
+Viet Nam	Phong Nha-Ke Bang National Park	0	106,15125	17,53722222	N	vn
+Viet Nam	Central Sector of the Imperial Citadel of Thang Long - Hanoi	0	105,8372222	21,03944444	C	vn
+Viet Nam	Citadel of the Ho Dynasty	0	105,6047222	20,07805556	C	vn
+Viet Nam	Trang An Landscape Complex	0	105,8963889	20,25666667	M	vn
+Yemen	Old Walled City of Shibam	1	48,62667	15,92694	C	ye
+Yemen	Old City of Sana'a	1	44,20805556	15,35555556	C	ye
+Yemen	Historic Town of Zabid	1	43,31552778	14,19533333	C	ye
+Yemen	Socotra Archipelago	0	53,83333333	12,5	N	ye
+Zimbabwe	Mana Pools National Park, Sapi and Chewore Safari Areas	0	29,40805556	-15,81944444	N	zw
+Zimbabwe	Matobo Hills	0	28,5	-20,5	C	zw
+Zimbabwe	Great Zimbabwe National Monument	0	30,93333333	-20,28333333	C	zw
+Zimbabwe	Khami Ruins National Monument	0	28,37666667	-20,15833333	C	zw
