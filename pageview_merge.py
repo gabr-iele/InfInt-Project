@@ -20,7 +20,7 @@ for i in range(24):
         cur_lang = line[0:2]
         words = line.split(" ")
         pagename = words[1]
-        viewcount = words[2]
+        viewcount = int(words[2])
 
 
         if cur_lang != last_lang:
@@ -37,7 +37,7 @@ for i in range(24):
     fin.close()
 
 for k in list(pages.keys()):
-    fout = open(k, "w", encoding='utf-8', errors='ignore')
+    fout = open(k+".txt", "w", encoding='utf-8', errors='ignore')
     for elem in pages[k]:
-        fout.write(elem+" "+pages[k][elem]+"\n")
+        fout.write(elem+" "+str(pages[k][elem])+"\n")
     fout.close()
