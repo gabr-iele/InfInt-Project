@@ -39,5 +39,6 @@ for i in range(24):
 for k in list(pages.keys()):
     fout = open(k+".txt", "w", encoding='utf-8', errors='ignore')
     for elem in pages[k]:
-        fout.write(elem+" "+str(pages[k][elem])+"\n")
+        if pages[k][elem] >= 50:
+            fout.write(elem+" "+str(pages[k][elem])+"\n")
     fout.close()
